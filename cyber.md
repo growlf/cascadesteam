@@ -43,7 +43,7 @@ Timeline:<br>
 5:45pm - Meeting begins<br>
 6:45pm - Wrap-up<br>
 
-Featured Speaker: 
+Featured Speakers: 
 **Brent Hurtig and Ianthe Andress, Partners at Motive Search Inc.**
 
 Topic: *Recruiting for Big Tech and Tech Startups*
