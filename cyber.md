@@ -44,7 +44,7 @@ Timeline:<br>
 6:45pm - Wrap-up<br>
 
 Featured Speaker: 
-**Brent Hurtig, Managing Partner & Founder, Motive Search**
+**Brent Hurtig and Ianthe Andress, Partners at Motive Search Inc.**
 
 Topic: *Recruiting for Big Tech and Tech Startups*
 
