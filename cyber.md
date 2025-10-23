@@ -33,23 +33,6 @@ Join us as we continue to work on organizing our group and building a local cybe
 
 Mark your calendars and watch this space as we confirm meeting locations. Consider creating a [Meetup account](https://www.meetup.com/cascadesteam) and following Cascade STEAM, to receive email notices about our events. 
 
-### Cascade STEAM Cyber Meeting #5 - October 9, 2025
-Thursday October 9, 2025 @ 5:20pm-7:00pm
-Location: Western Washington University, Kaiser Borsari Hall (KB), Room 122
-Parking: Free after 4:30pm in Lots C & 12G [WWU Visitor Parking Map](https://map.wwu.edu/wwu_visitor_parking.pdf)
-
-Timeline:<br>
-5:20pm - Doors open<br>
-5:45pm - Meeting begins<br>
-6:45pm - Wrap-up<br>
-
-Featured Speakers: 
-**Brent Hurtig and Ianthe Andress, Partners at Motive Search Inc.**
-
-Topic: *Recruiting for Big Tech and Tech Startups*
-
-How do you build a successful career in tech when the world of recruiting is changing almost weekly? Brent Hurtig and Ianthe Andress lead Motive, a firm specializing in top-tier executive-level placements for C- and V-level roles such as Chief Technology Officer, Chief Information Security Officer, Head of UI/UX, Chief Data Scientist, and more. We’ll gain insights about the recruitment process, how to plan toward a successful career, and how to present yourself professionally online and in-person. We plan on allocating time for questions from the audience, so bring your questions!
-
 
 ### Cascade STEAM Cyber Meeting #6 - November 13, 2025
 Thursday November 13, 2025 @ 5:20pm-7:00pm
