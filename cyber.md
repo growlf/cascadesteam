@@ -24,7 +24,7 @@ permalink: /cyber
 
 Welcome to Cascade STEAM’s Cyber-focused community group! We are just getting started as a community group and we’d love to have you join us at an upcoming meeting. Meetings are free and all are welcome. Anyone with an interest in cybersecurity is welcome and encouraged to attend. Please help us by spreading the word to friends and colleagues.
 
-## Meetings October - November 2025
+## Upcoming Meetings
 
 We meet on the second Thursday of the Month from ~5:30-7:00pm at various locations. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).  We will not hold meetings in August or December; join us for Cascade STEAM Socials on these months instead!
 
@@ -46,9 +46,16 @@ Topics: *Mike’s career story, impact of reduced federal resources at CISA (Cyb
 
 In a career spanning nearly 30 years, Michael has served as a Cybersecurity Policy Advisor for Washington State; Vice-Chair of the State, Local, Tribal, and Territorial Government Coordinating Council; Founder and President of Critical Insight; Chief Information Security Officer for the City of Seattle; and Managing Consultant for VeriSign Global Security Consulting.
 
+### December: No Meeting - Happy Holidays!
 
+### Cascade STEAM Cyber Meeting #7 - January 8, 2025
+Thursday January 8, 2025 @ 5:20pm-7:00pm
+Location: to be announced
 
+Featured Speaker: 
+**Kayne McGladrey, CISO in residence at Hyperproof**
 
+Topic: What cybersecurity professionals should expect in 2026
 
 [**Timeline:**<br>]: #
 [5:20 - Doors open (perhaps arrive a little earlier if you might want to order food/drinks)<br>]: #
