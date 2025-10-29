@@ -34,9 +34,9 @@ Join us as we continue to work on organizing our group and building a local cybe
 Mark your calendars and watch this space as we confirm meeting locations. Consider creating a [Meetup account](https://www.meetup.com/cascadesteam) and following Cascade STEAM, to receive email notices about our events. 
 
 
-### Cascade STEAM Cyber Meeting #6 - November 13, 2025
+### <span style="color:rgb(52,176,191);">Cascade STEAM Cyber Meeting #6 - November 13, 2025</span>
 Thursday November 13, 2025 @ 5:20pm-7:00pm
-Location: to be announced
+Location: [Bellingham Makerspace](https://bellinghammakerspace.org/), 1 Bellis Fair Parkway #618, Bellingham, WA 98225 (Entrance is inside mall near Dick's Sporting Goods)
 
 Featured Speaker: 
 **Mike Hamilton, Field CISO, Lumifi, and
@@ -46,27 +46,33 @@ Topics: *Mike’s career story, impact of reduced federal resources at CISA (Cyb
 
 In a career spanning nearly 30 years, Michael has served as a Cybersecurity Policy Advisor for Washington State; Vice-Chair of the State, Local, Tribal, and Territorial Government Coordinating Council; Founder and President of Critical Insight; Chief Information Security Officer for the City of Seattle; and Managing Consultant for VeriSign Global Security Consulting.
 
+**Timeline:**<br>
+5:20pm - Doors open<br>
+5:45pm - Meeting begins<br>
+6:45pm - Wrap-up
+
 ### December: No Meeting - Happy Holidays!
 
-### Cascade STEAM Cyber Meeting #7 - January 8, 2025
-Thursday January 8, 2025 @ 5:20pm-7:00pm
-Location: to be announced
+### <span style="color:rgb(52,176,191);">Cascade STEAM Cyber Meeting #7 - January 8, 2025</span>
+Thursday January 8, 2025 @ 5:20pm-7:00pm<br>
+Location: [Stemma Brewing West](https://www.stemmabrewing.com/general-clean), [500 Carolina Street](https://maps.app.goo.gl/YwPxnBgoXR7mLTRR6)
 
 Featured Speaker: 
 **Kayne McGladrey, CISO in residence at Hyperproof**
 
 Topic: What cybersecurity professionals should expect in 2026
 
-[**Timeline:**<br>]: #
-[5:20 - Doors open (perhaps arrive a little earlier if you might want to order food/drinks)<br>]: #
-[5:40 - Meeting begins<br>]: #
+**Timeline:**<br>
+5:20 - Doors open (perhaps arrive a little earlier if you might want to order food/drinks)<br>
+5:45 - Meeting begins<br>
+6:45pm - Wrap-up
 
 [* Career Spotlight & Presentation: Chris Ranallo, Director of IT for Lummi Nation. He will be talking about how they built a cybersecurity and IT program, and available to discuss issues around public sector IT and cybersecurity. Few of us have had the need (opportunity?) to build a program from the ground up, so this should be an interesting perspective!<br>]: #
 [6:30-7:00 - Wrap up and networking/social time]: #
 
 ## Organizers
 
-[Volunteer Organizers](/leadership) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), [David Hirsch](https://www.linkedin.com/in/davidhirsch3), and [Shay Colson](https://www.linkedin.com/in/shaycolson). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
+[Volunteer Organizers](/leadership) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), and [David Hirsch](https://www.linkedin.com/in/davidhirsch3). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
 
 ## Contact Us
 
