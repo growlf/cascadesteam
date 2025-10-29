@@ -34,7 +34,7 @@ Join us as we continue to work on organizing our group and building a local cybe
 Mark your calendars and watch this space as we confirm meeting locations. Consider creating a [Meetup account](https://www.meetup.com/cascadesteam) and following Cascade STEAM, to receive email notices about our events. 
 
 
-### <span style="color:rgb(212,99,41);">Cascade STEAM Cyber Meeting #6 - November 13, 2025</span>
+### <span style="color:rgb(212,99,41);">November (Meeting #6)</span>
 Thursday November 13, 2025 @ 5:20pm-7:00pm<br>
 <span style="color:rgb(52,176,191);font-weight:bold;">Location:</span> [Bellingham Makerspace](https://bellinghammakerspace.org/), 1 Bellis Fair Parkway #618, Bellingham, WA 98225 (Entrance is inside mall near Dick's Sporting Goods)
 
@@ -53,8 +53,8 @@ In a career spanning nearly 30 years, Michael has served as a Cybersecurity Poli
 
 ### <span style="color:rgb(212,99,41);">December: No Meeting - Happy Holidays!</span>
 
-### <span style="color:rgb(212,99,41);">Cascade STEAM Cyber Meeting #7 - January 8, 2025</span>
-Thursday January 8, 2025 @ 5:20pm-7:00pm<br>
+### <span style="color:rgb(212,99,41);">January (Meeting #7)</span>
+Thursday January 8, 2026 @ 5:20pm-7:00pm<br>
 <span style="color:rgb(52,176,191);font-weight:bold;">Location:</span> [Stemma Brewing West](https://www.stemmabrewing.com/general-clean), [500 Carolina Street](https://maps.app.goo.gl/YwPxnBgoXR7mLTRR6)
 
 **<span style="color:rgb(52,176,191);">Featured Speaker:</span>**
