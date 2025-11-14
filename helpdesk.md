@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Community Tech Support"
-permalink: /community-tech-support
+title: "HelpDesk"
+permalink: /helpdesk
 ---
 
 <style>
@@ -21,9 +21,9 @@ permalink: /community-tech-support
 
 <br>
 
-# Community Tech Support
+# HelpDesk
 
-**Community Tech Support** is now available from [Cascade STEAM](https://cascadesteam.org), a nonprofit organization providing local education programs and resources. Assistance is offered to the public from technology students and industry professionals by donation.
+Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our new **Cascade STEAM HelpDesk Program**. Assistance is offered to the public from technology students and industry professionals by donation.
 
 Program dates in November 2025 are **November 15, 22, and 29 from 1pm-4pm** located at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com).
 
@@ -31,18 +31,18 @@ Address: [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://maps.app.go
 
 Services include:
 
-* Computer Troubleshooting and Software Support
+* Computer Hardware and Software Troubleshooting
 * Computer Privacy and Security Assessment, Recommendations, and Configuration
 * Computer Operating System Updates and Installation
 
-Do you have a computer that is no longer supported by the manufacturer and cannot receive security updates? This is a HUGE risk\! We can help install a new, secure, and FREE Linux operating system to give a new life to your computer.
+Is your computer no longer supported by the original manufacturer? Are you unable to install security updates? This is a HUGE risk\! We can help install a new, secure, and FREE Linux operating system to give a new life to your computer.
 
 * [All versions of Microsoft Windows prior to Windows 11 are now no longer supported by Microsoft.](https://endoflife.date/windows)
 * [All versions of Apple macOS prior to macOS 14 are now no longer supported by Apple.](https://endoflife.date/macos)
 
-Please use our [Support Request Form](https://forms.gle/KYy3kUcMFQ9nvoWF9) to share details about your needs so that we can better assist you. A requested date and time is encouraged. Your feedback is welcome.
+Please use our [Support Request Form](https://forms.gle/KYy3kUcMFQ9nvoWF9) to share details about your needs so that we can better assist you. A requested date and time is encouraged. Your feedback is also welcome.
 
-Contact us at [community-tech-support@cascadesteam.org](mailto:community-tech-support@cascadesteam.org) for questions or comments regarding the Community Tech Support Program.
+Contact us at [helpdesk@cascadesteam.org](mailto:helpdesk@cascadesteam.org) for questions or comments regarding the HelpDesk Program.
 
 ## Contact Us
 
