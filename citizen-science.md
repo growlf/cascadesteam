@@ -28,9 +28,7 @@ Calling all aspiring Citizen Scientists\! Cascade STEAM is kicking off Citizen S
 
 ## Meetings
 
-We plan to meet on the third Thursday of the Month from 5:30-7:30pm at the [RE Sources](https://re-sources.org) Meeting Room. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
-
-Planned Meetings for 2025 include: March 20th, April 17th, May 15th, June 19th, July 17th, September 18th, October 16th, and November 20th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials in these months instead.
+We plan to meet on the third Thursday of the Month from 5:30-7:30pm at the [RE Sources](https://re-sources.org) Meeting Room. Meeting details will be available on the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
 **Location:**<br>
 [RE Sources](https://maps.app.goo.gl/GgWdUnySYs34MGj46), [2309 Meridian St, Bellingham, WA 98225](https://www.google.com/maps/place/2309+Meridian+St,+Bellingham,+WA+98225/)<br>
