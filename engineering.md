@@ -22,19 +22,11 @@ permalink: /engineering
 
 # Cascade STEAM Engineering
 
-Cascade STEAM Engineering connects students, founders, mentors, and teachers in our community through support and collaboration. At our monthly Lightning Meetups, attendees are encouraged to present their engineering projects for 3-5 minutes and field questions to help everyone find success.
-
-Cascade STEAM Programs are: *“Free. Open to everyone. All are welcome. Family friendly. Bring your friends!”*
+Cascade STEAM Engineering connects students, founders, mentors, and teachers in our community through support and collaboration. At our monthly group meetings, attendees are encouraged to present their engineering projects for 3-5 minutes and field questions to help everyone find success.
 
 ## Meetings
 
-We plan to meet Monthly every second Wednesday of the month from 5:30pm – 7:00pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
-
-Planned meetings for 2025 include: May 14th, June 11th, July 9th, September 10th, October 8th, and November 12th. We will not hold meetings in August or December. Join us for Cascade STEAM Socials on these months instead!
-
-**Location:**<br>
-[Bellingham Makerspace](https://bellinghammakerspace.org)<br>
-[1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)
+We plan to meet Monthly every second Wednesday of the month. Meeting details will be available on tthe [Cascade STEAM Community Hub](http://hub.cascadesteam.org/) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
 ## Organizers
 
