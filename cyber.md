@@ -16,7 +16,7 @@ permalink: /cyber
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
+[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate)
 
 <br>
 
