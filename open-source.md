@@ -30,7 +30,7 @@ We plan to meet Monthly every third Wednesday of the month from 5:30pm – 7:30p
 
 **Location:**
 
-Bellingham Linux Users Group<br>
+Cascade STEAM Open Source<br>
 ~Third Wednesday of the Month from 5:30pm-7:30pm<br>
 [Bellingham Makerspace](https://bellinghammakerspace.org)<br>
 [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)<br>
