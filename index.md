@@ -11,7 +11,7 @@
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
+[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate) 
 
 <br>
 
@@ -24,19 +24,14 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 ## News
 
 - [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](/helpdesk)
-- [July 9, 2025: Cascade STEAM Community Update - July 2025](/news/cascade-steam-community-update-july-2025)
-- [June 4, 2025: Cascade STEAM Community Update - June 2025](/news/cascade-steam-community-update-june-2025)
-- [May 7, 2025: Cascade STEAM Community Update - May 2025](/news/cascade-steam-community-update-may-2025)
-- [May 5, 2025: Cascade STEAM Engineering Community Group Launched](/engineering)
 
 See our [News Page](/news) for past topics.
 
 ## Programs
 
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
-- **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic.
-- **[Community Projects](/community-projects)**: Shared learning experiences focusing on positive community impact, often collaborating with community partners.
-- **[Mentorship](/mentorship)**: Connecting students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement.
+- **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
+- **[Community Projects](/community-projects)**: Organized community engagement and community service projects, often collaborating with community partners.
 
 *Coming Soon:*
 - **Internship**: Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
@@ -47,13 +42,15 @@ Our efforts are organized into programs, each of which is rooted in education, s
 
 ## Events
 
-*Free. Open to everyone. All are welcome. Family friendly. Bring your friends.* See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events.
+See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events. Most Cascade STEAM events, programs, and activities are *Free. Open to everyone. All are welcome. Family friendly. Bring your friends.* 
 
 ## Community Hub
 
 Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with our community for discussion, planning, and virtual events. Discord is a free online platform for public and private text, audio, and video chat.
 
 ## Social Media
+
+In addition to the [Community Hub](http://hub.cascadesteam.org), we use various online platforms for event management and outreach:
 
 - [Meetup](https://meetup.com/cascadesteam) to receive event announcements and to RSVP for events.
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to share our activity with your professional network.
