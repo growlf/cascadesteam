@@ -17,7 +17,9 @@
 
 # Home
 
-Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.*
+## Mission
+
+Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedicated to *Develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.*
 
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
@@ -32,13 +34,6 @@ See our [News Page](/news) for past topics.
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
 - **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
 - **[Community Projects](/community-projects)**: Organized community engagement and community service projects, often collaborating with community partners.
-
-*Coming Soon:*
-- **Internship**: Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.
-- **Workshops**: Instructor-led events and activities focusing on an educational topic.
-- **Group Projects**: Shared learning experiences focusing on an educational topic.
-- **Volunteers**: Organizing the volunteer needs of both Cascade STEAM programs and facilitating the STEAM-related needs of community partners.
-- **Digital Navigators**: Providing basic technology support to the community, focusing on community service and supporting social service providers. 
 
 ## Events
 
@@ -59,14 +54,6 @@ In addition to the [Community Hub](http://hub.cascadesteam.org), we use various 
 ## Code of Conduct
 
 All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](/conduct).
-
-## Organization
-
-Please see our [Organization Page](/organization) to review our mission and structure. Cascade STEAM is made possible through the commitment of [volunteer leadership](/leadership) and open collaboration of [partners](/partners). Thank you all for your efforts. 
-
-## Get Involved!
-
-We welcome all people of all ages to [get involved](/get-involved) to help support our mission. Learn how you can support existing efforts or bring your passions to Cascade STEAM and launch new efforts!
 
 ## Donate
 
