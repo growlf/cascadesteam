@@ -22,6 +22,7 @@ permalink: /news
 
 # News
 
+- [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](/helpdesk)
 - [July 9, 2025: Cascade STEAM Community Update - July 2025](/news/cascade-steam-community-update-july-2025)
 - [June 4, 2025: Cascade STEAM Community Update - June 2025](/news/cascade-steam-community-update-june-2025)
 - [May 7, 2025: Cascade STEAM Community Update - May 2025](/news/cascade-steam-community-update-may-2025)
