@@ -23,7 +23,7 @@ permalink: /helpdesk
 
 # HelpDesk
 
-Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our new **Cascade STEAM HelpDesk Program**. Assistance is offered to the public from technology students and industry professionals by donation.
+Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our new **[HelpDesk Program](/helpdesk)**. Assistance is offered to the public from technology students and industry professionals by donation.
 
 Program dates in November 2025 are **November 15, 22, and 29 from 1pm-4pm** located at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com).
 
@@ -35,7 +35,7 @@ Services include:
 * Computer Privacy and Security Assessment, Recommendations, and Configuration
 * Computer Operating System Updates and Installation
 
-Is your computer no longer supported by the original manufacturer? Are you unable to install security updates? This is a HUGE risk\! We can help install a new, secure, and FREE Linux operating system to give a new life to your computer.
+Is your computer no longer supported by the original manufacturer? This is a HUGE privacy and security risk\! We can help install a new, secure, and FREE Linux operating system to give a new life to your computer.
 
 * [All versions of Microsoft Windows prior to Windows 11 are now no longer supported by Microsoft.](https://endoflife.date/windows)
 * [All versions of Apple macOS prior to macOS 14 are now no longer supported by Apple.](https://endoflife.date/macos)
