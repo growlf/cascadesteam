@@ -39,13 +39,9 @@ Our efforts are organized into programs, each of which is rooted in education, s
 
 See our [Meetup Page](https://meetup.com/cascadesteam) for all scheduled events. Most Cascade STEAM events, programs, and activities are *Free. Open to everyone. All are welcome. Family friendly. Bring your friends.* 
 
-## Community Hub
+## Community
 
-Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with our community for discussion, planning, and virtual events. Discord is a free online platform for public and private text, audio, and video chat.
-
-## Social Media
-
-In addition to the [Community Hub](http://hub.cascadesteam.org), we use various online platforms for event management and outreach:
+Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with our community for discussion, planning, and virtual events. Discord is a free online platform for public and private text, audio, and video chat. We also use online platforms for event management and outreach:
 
 - [Meetup](https://meetup.com/cascadesteam) to receive event announcements and to RSVP for events.
 - [LinkedIn](https://linkedin.com/company/cascadesteam) to share our activity with your professional network.
