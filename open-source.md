@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Source"
+title: "Open Source Community Group"
 permalink: /open-source
 redirect_from:
   - /blug
@@ -24,11 +24,15 @@ redirect_from:
 
 # Open Source
 
-Join us each third Wednesday of the Month as we meet to discuss Open Source Software and Hardware. We helped relaunch the Bellingham Linux Users Group earlier this year after it succumbed to the chaos of COVID, and we have reformatted as Cascade STEAM Open Source as we acknowledge the shift from Linux-focused topics to the vastness of Open Source Software and Hardware. Our first several months will feature a new HomeLab Series, as we highlight fundamental open source software and share how we are incorporating these solutions into our own organization and programs.
+## About
+
+Join us each third Wednesday of the Month as we meet to discuss Open Source Software and Hardware. Our current focus is a HomeLab Series highlighting fundamental open source software. Explore how you can design your own homelab and learn how we are incorporating these solutions into our own organization and programs.
+
+_Open Source_ is a continuation of the Bellingham Linux Users Group, initially formed in 1998, which succumbed to the chaos of COVID. We have relaunched with community members from Bellingham Codes and BTC Raspberry Pi Club, and reformatted as Open Source to acknowledge the shift from Linux-focused topics to the vastness of Open Source Software and Hardware.
 
 ## Meetings
 
-We plan to meet Monthly every third Wednesday of the month from 5:30pm – 7:30pm at the Bellingham Makerspace. Meeting details will be available on this page, the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/), and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
+We plan to meet Monthly every third Wednesday of the month from 5:30pm – 7:30pm at the Bellingham Makerspace. Meeting details will be available at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
 **Location:**
 
