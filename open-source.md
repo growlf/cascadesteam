@@ -2,6 +2,8 @@
 layout: page
 title: "Open Source"
 permalink: /open-source
+redirect_from:
+  - /blug
 ---
 <style>
   .header {
