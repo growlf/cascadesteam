@@ -2,8 +2,6 @@
 layout: page
 title: "Open Source Community Group"
 permalink: /open-source
-redirect_from:
-  - /blug
 ---
 <style>
   .header {
