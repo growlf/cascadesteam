@@ -2,6 +2,8 @@
 layout: page
 title: "HelpDesk"
 permalink: /helpdesk
+redirect_from:
+  - /community-tech-support
 ---
 
 <style>
