@@ -26,7 +26,7 @@ Cascade STEAM Community Projects are organized collaborative efforts to provide 
 
 ## Digital Navigators
 
-Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [Digital Navigators](https://cascadesteam.org/digital-navigators) Program. Assistance is offered to the public from technology students and industry professionals via arranged onsite visits with social welfare and support organizations to help resolve basic computing challenges.
+Community Tech Support is now available from Cascade STEAM via our [Digital Navigators](https://cascadesteam.org/digital-navigators) Program. Assistance is offered to the public from technology students and industry professionals via arranged onsite visits with social welfare and support organizations to help resolve basic computing challenges for their community members.
 
 ## HelpDesk
 
