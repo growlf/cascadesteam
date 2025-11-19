@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: /open-source
+target: https://cascadesteam.org/open-source
 ---
