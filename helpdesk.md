@@ -25,7 +25,7 @@ redirect_from:
 
 # HelpDesk
 
-Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our new **[HelpDesk Program](/helpdesk)**. Assistance is offered to the public from technology students and industry professionals by donation.
+Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
 
 Program dates in November 2025 are **November 15, 22, and 29 from 1pm-4pm** located at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com).
 
@@ -33,9 +33,9 @@ Address: [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://maps.app.go
 
 Services include:
 
-* Computer Hardware and Software Troubleshooting
-* Computer Privacy and Security Assessment, Recommendations, and Configuration
-* Computer Operating System Updates and Installation
+* Computer hardware and software troubleshooting
+* Computer privacy and security assessment, recommendations, and configuration
+* Computer operating system updates and installation
 
 Is your computer no longer supported by the original manufacturer? This is a HUGE privacy and security risk\! We can help install a new, secure, and FREE Linux operating system to give a new life to your computer.
 
