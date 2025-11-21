@@ -25,9 +25,11 @@ permalink: /hack-night
 
 Join [Cascade STEAM](/) for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
 
+Free. Open to everyone. All are welcome. Family Friendly. Bring your friends.
+
 P.S. If you are looking for project ideas, then we’ve got them! See our [Digital Navigators](/digital-navigators), [HelpDesk](/helpdesk), and Stormwater Monitoring [Community Projects](/community-projects) for inspiration.
 
-Check the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) or the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details and to RSVP for all scheduled events.
+Check the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) for discussion and the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details and to RSVP for scheduled events.
 
 ## Contact Us
 
