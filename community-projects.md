@@ -30,7 +30,7 @@ Community Tech Support is now available from Cascade STEAM via our [Digital Navi
 
 ## Hack Night
 
-Join [Cascade STEAM](/) for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
+Join Cascade STEAM for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
 
 ## HelpDesk
 
