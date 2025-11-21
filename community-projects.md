@@ -28,6 +28,10 @@ Cascade STEAM Community Projects are organized collaborative efforts for communi
 
 Community Tech Support is now available from Cascade STEAM via our [Digital Navigators](https://cascadesteam.org/digital-navigators) Program. Assistance is offered to the public from volunteer technology professionals and students via arranged onsite visits with social welfare and support organizations to help resolve basic computing challenges.
 
+## Hack Night
+
+Join [Cascade STEAM](/) for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
+
 ## HelpDesk
 
 Community Tech Support is now available from Cascade STEAM via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
