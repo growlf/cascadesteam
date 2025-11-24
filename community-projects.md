@@ -40,6 +40,10 @@ Community Tech Support is now available from Cascade STEAM via our [HelpDesk](/h
 
 [Mentorship](/mentorship) connects community members interested in STEAM in either a “Traditional Mentorship” or “Peer Mentorship” arrangement, providing a support structure for a positive mentorship experience for all.
 
+## Service Corps
+
+Cascade STEAM [Service Corps](https://cascadesteam.org/service-corps) is a technology training program for social good. Each quarter, student interns and volunteers work closely with technology professionals to help develop and maintain the systems that we utilize for our organization and community programs, including [Digital Navigators](https://cascadesteam.org/digital-navigators) and [HelpDesk](https://cascadesteam.org/helpdesk).
+
 ## Stormwater Monitoring
 
 The [Citizen Science Community Group](/citizen-science) helps in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers are working to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute as we work together as a team to resolve challenges.
