@@ -22,6 +22,8 @@ permalink: /news
 
 # News
 
+- [November 24, 2025: Cascade STEAM Service Corps Program launched - a technology training program for social good](/service-corps)
+- [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](/hack-night)
 - [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](/helpdesk)
 - [July 9, 2025: Cascade STEAM Community Update - July 2025](/news/cascade-steam-community-update-july-2025)
 - [June 4, 2025: Cascade STEAM Community Update - June 2025](/news/cascade-steam-community-update-june-2025)
