@@ -37,6 +37,7 @@ Community Groups include:
 
 We also collaborate with other local community groups, including:
 - **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))
+- **[Bellingham Linux Users Group](https://blug.org)**: Linux
 - **[Bellingham Tableau User Group](https://usergroups.tableau.com/bellingham-tableau-user-group/)**: Tableau Software and related data analytics topics
 
 ## Are you interested to start a new community group?
