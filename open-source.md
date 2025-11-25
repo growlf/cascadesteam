@@ -26,30 +26,31 @@ redirect_from:
 
 ## About
 
-Join us each third Wednesday of the Month as we meet to discuss Open Source Software and Hardware. Our current focus is a HomeLab Series highlighting fundamental open source software. Explore how you can design your own homelab and learn how we are incorporating these solutions into our own organization and programs.
-
-_Open Source_ is a continuation of the Bellingham Linux Users Group, initially formed in 1998, which succumbed to the chaos of COVID. We have relaunched with community members from Bellingham Codes and BTC Raspberry Pi Club, and reformatted as Open Source to acknowledge the shift from Linux-focused topics to the vastness of Open Source Software and Hardware.
+Join us each month as we meet to discuss Open Source Software and Hardware. Our current focus is a HomeLab Series highlighting fundamental open source software. Explore how you can design your own homelab and learn how we are incorporating these solutions into our own organization and programs.
 
 ## Meetings
 
-We plan to meet Monthly every third Wednesday of the month from 5:30pm – 7:30pm at the Bellingham Makerspace. Meeting details will be available at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
+Meeting details will be available at the [Cascade STEAM Community Hub](http://hub.cascadesteam.org/) and the [Cascade STEAM Meetup Page](https://www.meetup.com/cascadesteam).
 
 **Location:**
 
-Cascade STEAM Open Source<br>
-~Third Wednesday of the Month from 5:30pm-7:30pm<br>
 [Bellingham Makerspace](https://bellinghammakerspace.org)<br>
 [1 Bellis Fair Parkway \#618, Bellingham, WA 98225](https://www.google.com/maps/place/1+Bellis+Fair+Pkwy+%23+618,+Bellingham,+WA+98226/)<br>
 
 **Agenda:**
 
-- The first half hour will be arrival and community support. Need help installing some app or flavor of Linux? Make sure to show up early and partake in the wisdom from some of our more experienced members.
-- After that, we will have featured topics and guest sessions. Do you have ideas on what you would like to present or want to present yourself? Let us know!
-- After the presentations are done, we will have a general social time to get to know each other and to collaborate on new things.
+- Technical Support
+- Announcements
+- Featured Topic
+- Socializing
+
+## Partners
+
+We collaborate with [Bellingham Linux Users Group](https://blug.org) and are a proud partner of the annual [LinuxFest Northwest](https://lfnw.org) technology conference.
 
 ## Organizers
 
-[Volunteer Organizers](https://cascadesteam.org/leadership) of the Cascade STEAM Open Source are [Brian Parks](https://www.linkedin.com/in/growlf) and [Garth Johnson](https://www.linkedin.com/in/growlf). Please contact [open-source@cascadesteam.org](mailto:open-source@cascadesteam.org) for general inquiries.
+[Volunteer Organizers](https://cascadesteam.org/leadership) of Cascade STEAM Open Source are [Garth Johnson](https://www.linkedin.com/in/growlf) and [Michael Gan](https://www.linkedin.com/in/michaelbgan/). Please contact [open-source@cascadesteam.org](mailto:open-source@cascadesteam.org) for community group inquiries.
 
 ## Contact Us
 
