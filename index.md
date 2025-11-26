@@ -24,6 +24,7 @@ Cascade STEAM is a 501(c)(3) nonprofit organization based in Bellingham, WA dedi
 STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, and Mathematics. STEAM education is a powerful framework to promote curiosity and creativity, encourage a shared learning experience, and build tools to solve important life challenges. We advocate through development and promotion of events, activities, and programs, and invite collaboration with community partners in shared purpose.
 
 ## News
+- [November 26, 2025: LinuxFest Northwest 2026 is almost here - Be a speaker, sponsor, or help as a volunteer](/linuxfest-northwest)
 - [November 24, 2025: Cascade STEAM Service Corps Program launched - a technology training program for social good](/service-corps)
 - [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](/hack-night)
 - [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](/helpdesk)
