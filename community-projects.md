@@ -36,6 +36,10 @@ Join Cascade STEAM for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at
 
 Community Tech Support is now available from Cascade STEAM via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
 
+## LinuxFest Northwest
+
+[LinuxFest Northwest](/linuxfest-northwest) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional\! LinuxFest Northwest 2026 will be held April 24-26, 2026 in Bellingham, WA with the main conference held at Bellingham Technical College and social events held at various venues around Bellingham.
+
 ## Mentorship
 
 [Mentorship](/mentorship) connects community members interested in STEAM in either a “Traditional Mentorship” or “Peer Mentorship” arrangement, providing a support structure for a positive mentorship experience for all.
