@@ -33,7 +33,7 @@ Volunteers are needed\! Be a mentor volunteer to help students in learning robot
 
 **Mentor Volunteers** contribute their robotics-related experience to assist students during arranged after-school periods \- commonly on Wednesdays from 3:30pm-5:30pm.
 
-**Event Volunteers** support the execution of major robotics events. No experience is necessary for some roles. Engineering and technical experience is always a plus\! Roles include: Check-in, Robot Inspecting, Competition Scoring, Team Queuing, Field Resetting, and Judging. Please see the BPS VEX Robotics 2025 Volunteers Needed document for more details.
+**Event Volunteers** support the execution of major robotics events. No experience is necessary for some roles. Engineering and technical experience is always a plus\! Roles include: Check-in, Robot Inspecting, Competition Scoring, Team Queuing, Field Resetting, and Judging. Please see the [BPS VEX Robotics 2025 Volunteers Needed](/docs/BPS VEX Robotics 2025 Volunteers Needed.pdf) document for more details.
 
 Events in Whatcom County during the 2025-2026 school year are:
 
