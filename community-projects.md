@@ -28,6 +28,10 @@ Cascade STEAM Community Projects are organized collaborative efforts for communi
 
 Community Tech Support is now available from Cascade STEAM via our [Digital Navigators](https://cascadesteam.org/digital-navigators) Program. Assistance is offered to the public from volunteer technology professionals and students via arranged onsite visits with social welfare and support organizations to help resolve basic computing challenges.
 
+## Educational Robotics
+
+Our Educational Robotics Community Project is a collaboration of our [Engineering Community Group](https://cascadesteam.org/engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students in learning robotics and host robotics events. 
+
 ## Hack Night
 
 Join Cascade STEAM for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
@@ -36,7 +40,7 @@ Join Cascade STEAM for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at
 
 Community Tech Support is now available from Cascade STEAM via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
 
-## LinuxFest Northwest
+## LinuxFest Northwest Conference
 
 [LinuxFest Northwest](/linuxfest-northwest) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional\! LinuxFest Northwest 2026 will be held April 24-26, 2026 in Bellingham, WA with the main conference held at Bellingham Technical College and social events held at various venues around Bellingham.
 
