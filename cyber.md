@@ -40,7 +40,9 @@ Thursday January 8, 2026 @ 5:20pm-7:00pm<br>
 <span style="color:rgb(52,176,191);font-weight:bold;">Location:</span> [Stemma Brewing West](https://www.stemmabrewing.com/general-clean), [500 Carolina Street](https://maps.app.goo.gl/YwPxnBgoXR7mLTRR6)
 
 **<span style="color:rgb(52,176,191);">Featured Guests:</span>**
-**Kayne McGladrey, CISO in residence at Hyperproof**
+- **Kayne McGladrey, Virtual CISO, Executive Cybersecurity Advisor**
+- **Mary Thomas, IT Directory for City of Mount Vernon, WA**
+- **[Third member TBA]**
 
 <span style="color:rgb(52,176,191);font-weight:bold;">Panel Discussion Topic</span>: What cybersecurity professionals should expect in 2026
 
