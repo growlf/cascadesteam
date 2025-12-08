@@ -30,7 +30,7 @@ Community Tech Support is now available from Cascade STEAM via our [Digital Navi
 
 ## Educational Robotics
 
-Our [Educational Robotics](/educational-robotics) Community Project is a collaboration of our [Engineering Community Group](https://cascadesteam.org/engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
+[Educational Robotics](/educational-robotics) is a collaboration of the Cascade STEAM [Engineering Community Group](https://cascadesteam.org/engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
 
 ## Hack Night
 
