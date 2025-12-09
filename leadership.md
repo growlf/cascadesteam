@@ -49,6 +49,7 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 
 ## Engagement Committee
 
+- Jason Davies: [LinkedIn](https://www.linkedin.com/in/jason-davies-aa536b9/), [Email](mailto:jason.davies@cascadesteam.org)
 - Michael Gan: [LinkedIn](https://www.linkedin.com/in/michaelbgan), [Email](mailto:michael.gan@cascadesteam.org)
 - Brett Greene: [LinkedIn](https://www.linkedin.com/in/brettgreene/), [Email](mailto:brett.greene@cascadesteam.org)
 - Kathleen May: [LinkedIn](https://www.linkedin.com/in/kathleenmay/), [Email](mailto:kathleen.may@cascadesteam.org) 
