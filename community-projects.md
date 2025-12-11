@@ -26,7 +26,7 @@ Cascade STEAM Community Projects are organized collaborative efforts for communi
 
 ## Digital Navigators
 
-Community Tech Support is now available from Cascade STEAM via our [Digital Navigators](https://cascadesteam.org/digital-navigators) Program. Assistance is offered to the public from volunteer technology professionals and students via arranged onsite visits with social welfare and support organizations to help resolve basic computing challenges.
+FREE Community Tech Support is now available from Cascade STEAM via our [Digital Navigators](https://cascadesteam.org/digital-navigators) Program. Assistance is offered to the public from technology students and industry professionals through scheduled onsite events at social welfare and support organizations to help resolve basic computing challenges completely free of charge.
 
 ## Educational Robotics
 
@@ -38,7 +38,7 @@ Join Cascade STEAM for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at
 
 ## HelpDesk
 
-Community Tech Support is now available from Cascade STEAM via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
+Community Tech Support is now available from Cascade STEAM via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
 
 ## LinuxFest Northwest Conference
 
