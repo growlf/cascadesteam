@@ -30,7 +30,7 @@ We plan to meet \~monthly on varying days and locations. Meeting details will be
 
 ## Organizers
 
-[Volunteer Organizers](/leadership) of the Cascade STEAM Citizen Science Community Group are [Ryan Christensen](https://www.linkedin.com/in/rpchristensen/) and [Ian Hogan](https://www.linkedin.com/in/ianh007/). Please contact [data-engineering@cascadesteam.org](mailto:data-engineering@cascadesteam.org) for general inquiries.
+[Volunteer Organizers](/leadership) of the Cascade STEAM Citizen Science Community Group are [Eric Veal](https://www.linkedin.com/in/ejveal/) and [Michael Gan](https://www.linkedin.com/in/michaelbgan/). Please contact [data-engineering@cascadesteam.org](mailto:data-engineering@cascadesteam.org) for general inquiries.
 
 ## Contact Us
 
