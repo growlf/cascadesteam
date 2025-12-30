@@ -46,6 +46,7 @@ Cascade STEAM is made possible through the commitment of volunteer leadership an
 - Marty Mulholland: [LinkedIn](https://www.linkedin.com/in/mulholland99), [Email](mailto:marty.mulholland@cascadesteam.org)
 - Ryan Shupe: [LinkedIn](https://www.linkedin.com/in/ryan-shupe-74a48219), [Email](mailto:ryan.shupe@gmail.com)
 - Kevin Stock: [LinkedIn](https://www.linkedin.com/in/kevinstock), [Email](mailto:kevin@toolhouse.com)
+- Eric Veal: [LinkedIn](https://www.linkedin.com/in/ejveal/), [Email](mailto:eric.veal@cascadesteam.org)
 
 ## Engagement Committee
 
