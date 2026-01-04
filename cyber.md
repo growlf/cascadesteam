@@ -41,8 +41,8 @@ Thursday January 8, 2026 @ 5:20pm-7:00pm<br>
 
 **<span style="color:rgb(52,176,191);">Featured Guests:</span>**
 - **Kayne McGladrey, Virtual CISO, Executive Cybersecurity Advisor**
-- **Mary Thomas, IT Directory for City of Mount Vernon, WA**
-- **[Third member TBA]**
+- **Mary Thomas, IT Director for City of Mount Vernon, WA**
+- **Shay Colson, Managing partner, Intentional Cybersecurity**
 
 <span style="color:rgb(52,176,191);font-weight:bold;">Panel Discussion Topic</span>: What cybersecurity professionals should expect in 2026
 
