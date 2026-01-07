@@ -6,6 +6,8 @@
 # Based on https://github.com/marketplace/actions/build-quartz-for-github-pages
 #
 name: Build Quartz Site
+  with:
+    enablement: true
 on:
 
   push:
