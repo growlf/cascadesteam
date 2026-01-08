@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Readme"
-permalink: /README
 ---
 <p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
 

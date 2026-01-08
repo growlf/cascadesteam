@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Community Groups"
-permalink: /community-groups
 ---
 <style>
   .header {
@@ -16,7 +15,7 @@ permalink: /community-groups
 
 <br>
 
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
 
 <br>
 
@@ -26,7 +25,7 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 
 ## Current Community Groups
 
-Community Groups are made possible through the commitment of [volunteer organizers](Leadership.md) and open collaboration of [partners](partners.md). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
+Community Groups are made possible through the commitment of [volunteer organizers](Leadership.md) and open collaboration of [Partners](Partners.md). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
 
 Community Groups include:
 - **[Citizen Science](Citizen%20Science.md)**: science, in particular life sciences

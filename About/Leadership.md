@@ -15,13 +15,13 @@ title: "Leadership"
 
 <br>
 
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
 
 <br>
 
 # Leadership
 
-Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [partners](partners.md). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
+Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](Partners.md). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
 
 ## Board of Directors
 

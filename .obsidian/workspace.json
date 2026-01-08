@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -197,9 +197,17 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
-    "assets/_templates",
-    "Get Involved/Leadership.md",
+    "News/index.md",
     "Get Involved/index.md",
+    "Community Projects/index.md",
+    "Community Groups/index.md",
+    "About/index.md",
+    "About/Conduct.md",
+    "About/Donate.md",
+    "About/Outreach.md",
+    "About/Partners.md",
+    "About/Leadership.md",
+    "assets/_templates",
     "Community Projects/Service Corps.md",
     "Community Projects/Mentorship.md",
     "Community Projects/LinuxFest NorthWest.md",
@@ -212,16 +220,9 @@
     "Community Groups/Data Engineering.md",
     "Community Groups/Cyber.md",
     "Community Groups/Citizen Science.md",
-    "News/index.md",
-    "Community Projects/index.md",
-    "Community Groups/index.md",
-    "About/index.md",
     "README.md",
     "assets/template_page.md",
-    "About/outreach.md",
-    "About/conduct.md",
-    "About/partners.md",
-    "About/organization.md",
+    "About/Organization.md",
     "About",
     "Get Involved",
     "Community Projects",

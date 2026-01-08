@@ -1,6 +1,6 @@
 <p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
 
-| [[index\|Home]] | [[About/index\|About]] | [[Community Groups/index\|Community Groups]] | [[Community Projects/index\|Community Projects]] | [[Get Involved/index\|Get Involved]] | [[donate\|Donate]] |
+| [[index\|Home]] | [[About/index\|About]] | [[Community Groups/index\|Community Groups]] | [[Community Projects/index\|Community Projects]] | [[Get Involved/index\|Get Involved]] | [[Donate\|Donate]] |
 | --------------- | ---------------- | -------------------------------------- | ------------------------------------------ | ------------------------------ | ------------------ |
 
 # Home
@@ -39,7 +39,7 @@ Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with 
 
 ## Code of Conduct
 
-All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](conduct.md).
+All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](Conduct.md).
 
 ## Contact Us
 

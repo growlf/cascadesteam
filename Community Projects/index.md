@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Community Projects"
-permalink: /community-projects
 ---
 <style>
   .header {
@@ -16,7 +15,7 @@ permalink: /community-projects
 
 <br>
 
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
 
 <br>
 

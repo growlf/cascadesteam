@@ -16,7 +16,7 @@ permalink: /organization
 
 <br>
 
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
 
 <br>
 
@@ -65,7 +65,7 @@ In alignment with organization mission we will facilitate engagement with the co
 
 ### Composition
 
-The organization is comprised of a Board of Directors and Board Committees, with individuals representing (1) the fields of science, technology, engineering, arts, and mathematics, (2) education, industry, local government, and nonprofit sectors, and (3) community interests. Please refer to our [Leadership](Leadership.md) and [Partners](partners.md) for current collaborators.
+The organization is comprised of a Board of Directors and Board Committees, with individuals representing (1) the fields of science, technology, engineering, arts, and mathematics, (2) education, industry, local government, and nonprofit sectors, and (3) community interests. Please refer to our [Leadership](Leadership.md) and [Partners](Partners.md) for current collaborators.
 
 ### Terms
 

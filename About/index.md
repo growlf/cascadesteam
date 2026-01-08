@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About"
-permalink: /about
 ---
 
 <style>
@@ -17,7 +16,7 @@ permalink: /about
 
 <br>
 
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) 
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md) 
 
 <br>
 
@@ -31,7 +30,7 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 ## Organization
 
-Please see our [Organization Page](organization.md) to review our mission and structure. Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership.md) and open collaboration of [partners](partners.md). Thank you all for your efforts. 
+Please see our [Organization Page](Organization.md) to review our mission and structure. Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership.md) and open collaboration of [Partners](Partners.md). Thank you all for your efforts. 
 
 ## Get Involved!
 
@@ -39,7 +38,7 @@ We welcome all people of all ages to [get involved](Get%20Involved/index.md) to 
 
 ## Donate
 
-Cascade STEAM is community supported - we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs. Any donation amount is appreciated. See our [Donate](donate.md) page for additional details and payment options. Thank you for your support!<br>
+Cascade STEAM is community supported - we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs. Any donation amount is appreciated. See our [Donate](Donate.md) page for additional details and payment options. Thank you for your support!<br>
 
 [>> DONATE NOW <<](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
