@@ -25,29 +25,30 @@ const config: QuartzConfig = {
         header: "Workbench",
         body: "Space Grotesk",
         code: "IBM Plex Mono",
-      },
-      colors: {
-        lightMode: {
-          light: "#eeeeeeff",
-          lightgray: "#dbdbdb",
-          gray: "#59d75b",
-          darkgray: "#464646ff",
-          dark: "#00551a",
-          secondary: "#037c29",
-          tertiary: "#00bc3b",
-          highlight: "#00ff8c26"
-        },
-        darkMode: {
-          light: "#00282b",
-          lightgray: "#355f3b",
-          gray: "#006015",
-          darkgray: "#a9a9a9;",
-          dark: "#90ff90ff",
-          secondary: "#29cb68",
-          tertiary: "#8dffb3",
-          highlight: "rgba(169, 143, 143, 0.15)",
-        },
-      },
+      }
+      //,
+      // colors: {
+      //   lightMode: {
+      //     light: "#eeeeeeff",
+      //     lightgray: "#dbdbdb",
+      //     gray: "#59d75b",
+      //     darkgray: "#464646ff",
+      //     dark: "#00551a",
+      //     secondary: "#037c29",
+      //     tertiary: "#00bc3b",
+      //     highlight: "#00ff8c26"
+      //   },
+      //   darkMode: {
+      //     light: "#00282b",
+      //     lightgray: "#355f3b",
+      //     gray: "#006015",
+      //     darkgray: "#a9a9a9;",
+      //     dark: "#90ff90ff",
+      //     secondary: "#29cb68",
+      //     tertiary: "#8dffb3",
+      //     highlight: "rgba(169, 143, 143, 0.15)",
+      //   },
+      // },
     },
   },
   plugins: {
