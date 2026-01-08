@@ -2,25 +2,6 @@
 layout: page
 title: "Community Groups"
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Community Groups
-
 Cascade STEAM Community Groups convene aspiring, current, and retired professionals interested in a STEAM topic to connect with fellow community members, discuss technical topics, participate in community building and community service programs, and collaborate with organizations in shared purpose on community projects.
 
 ## Current Community Groups

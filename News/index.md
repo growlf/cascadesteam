@@ -2,25 +2,6 @@
 layout: page
 title: "News"
 ---
-<style>
-  .header {
-    display: none;
-  }
-  .footer {
-    display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# News
-
 - [November 26, 2025: LinuxFest Northwest 2026 is almost here - Be a speaker, sponsor, or help as a volunteer](LinuxFest%20NorthWest.md)
 - [November 24, 2025: Cascade STEAM Service Corps Program launched - a technology training program for social good](Service%20Corps.md)
 - [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](Hack%20Night.md)

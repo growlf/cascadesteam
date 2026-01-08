@@ -4,26 +4,7 @@ title: "Engineering"
 tags:
   - community-group
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Cascade STEAM Engineering
-
-Cascade STEAM Engineering connects students, founders, mentors, and teachers in our community through support and collaboration. At our monthly group meetings, attendees are encouraged to present their engineering projects for 3-5 minutes and field questions to help everyone find success.
+Engineering is a Cascade STEAM [Community Group](Community%20Groups/index.md) with a focus on science and science-related [community projects](Community%20Projects/index.md). Cascade STEAM Engineering connects students, founders, mentors, and teachers in our community through support and collaboration. At our monthly group meetings, attendees are encouraged to present their engineering projects for 3-5 minutes and field questions to help everyone find success.
 
 ## Meetings
 

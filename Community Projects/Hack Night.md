@@ -4,26 +4,6 @@ title: "Hack Night"
 tags:
   - community-project
 ---
-
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md) 
-
-<br>
-
-# Hack Night
-
 Join [Cascade STEAM](/) for [Hack Night](Hack%20Night.md) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
 
 Free. Open to everyone. All are welcome. Family Friendly. Bring your friends.

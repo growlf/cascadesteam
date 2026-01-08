@@ -4,24 +4,7 @@ title: Cyber
 tags:
   - community-group
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade STEAM Cyber.png" width="600" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Cascade STEAM Cyber
+Cyber is a Cascade STEAM [Community Group](Community%20Groups/index.md) with a focus on science and science-related [community projects](Community%20Projects/index.md).
 
 Welcome to Cascade STEAM’s Cyber-focused community group! We are just getting started as a community group and we’d love to have you join us at an upcoming meeting. Meetings are free and all are welcome. Anyone with an interest in cybersecurity is welcome and encouraged to attend. Please help us by spreading the word to friends and colleagues.
 

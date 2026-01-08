@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community Groups/Open Source.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Open Source"
+              "title": "README"
             }
           }
         ]
@@ -197,19 +197,9 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
-    "Community Groups/index.md",
-    "Community Projects/index.md",
-    "Get Involved/index.md",
-    "README.md",
     "index.md",
     "News/index.md",
-    "About/index.md",
-    "About/Conduct.md",
-    "About/Donate.md",
-    "About/Outreach.md",
-    "About/Partners.md",
-    "About/Leadership.md",
-    "assets/_templates",
+    "Get Involved/index.md",
     "Community Projects/Service Corps.md",
     "Community Projects/Mentorship.md",
     "Community Projects/LinuxFest NorthWest.md",
@@ -217,13 +207,23 @@
     "Community Projects/Hack Night.md",
     "Community Projects/Educational Robotics.md",
     "Community Projects/Digital Navigators.md",
+    "Community Projects/index.md",
     "Community Groups/Open Source.md",
     "Community Groups/Engineering.md",
     "Community Groups/Data Engineering.md",
     "Community Groups/Cyber.md",
     "Community Groups/Citizen Science.md",
-    "assets/template_page.md",
+    "Community Groups/index.md",
+    "About/Partners.md",
+    "About/Outreach.md",
     "About/Organization.md",
+    "About/Leadership.md",
+    "About/Donate.md",
+    "About/Code of Conduct.md",
+    "About/index.md",
+    "README.md",
+    "assets/_templates",
+    "assets/template_page.md",
     "About",
     "Get Involved",
     "Community Projects",

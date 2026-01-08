@@ -4,26 +4,6 @@ title: "LinuxFest Northwest"
 tags:
   - community-project
 ---
-
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md) 
-
-<br>
-
-# LinuxFest Northwest Conference
-
 [LinuxFest Northwest](https://lfnw.org) (est. 2000\) is an annual, free-to-attend F/LOSS conference co-produced by [Bellingham Linux Users Group](https://www.blug.org/), [Information Technology department at BTC](https://www.btc.edu/Academics/AreasofStudy/InformationTechnology.html), [Jupiter Broadcasting](https://www.jupiterbroadcasting.com/), and [Cascade STEAM](https://cascadesteam.org/).
 
 LFNW features presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional\!

@@ -4,25 +4,6 @@ title: Citizen Science
 tags:
   - community-group
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Cascade STEAM Citizen Science
-
 Citizen Science is a Cascade STEAM [Community Group](Community%20Groups/index.md) with a focus on science and science-related [community projects](Community%20Projects/index.md).
 
 Calling all aspiring Citizen Scientists\! Cascade STEAM is kicking off Citizen Science with the Stormwater Monitoring [Community Project](Community%20Projects/index.md) to understand and improve the stormwater monitoring for Bellingham. In this group you'll learn about the techniques used by the [City of Bellingham](https://cob.org/services/environment/stormwater), [Washington State Department of Ecology](https://ecology.wa.gov/water-shorelines/water-quality/nonpoint-pollution/stormwater), and the local non-profit [RE Sources](https://re-sources.org) to ensure Bellingham Bay is minimally impacted by stormwater run-off. To learn more see this great summary of the [ReSources Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).

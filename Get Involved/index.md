@@ -2,25 +2,6 @@
 layout: page
 title: "Get Involved"
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Get Involved
-
 We welcome all people of all ages to participate in helping support Cascade STEAM and thank you for your efforts.
 
 So how does this work? Well, Programs are how we engage our community and Committees focus on building the internal systems of which our Programs rely on to be impactful. We stategize these efforts with several co-organizers for each topic to encourage a team environment and keep our efforts "fun".

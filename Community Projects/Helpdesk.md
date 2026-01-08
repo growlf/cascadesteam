@@ -4,26 +4,6 @@ title: "HelpDesk"
 tags:
   - community-project
 ---
-
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# HelpDesk
-
 Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [HelpDesk](Helpdesk.md) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
 
 Program dates in November 2025 are **November 15, 22, and 29 from 1pm-4pm** located at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com).

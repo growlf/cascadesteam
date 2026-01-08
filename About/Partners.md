@@ -2,25 +2,6 @@
 layout: page
 title: "Partners"
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Partners
-
 Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership.md) and open collaboration of partners. Thank you all for your efforts. Partners include:
 
 ## Community Partners

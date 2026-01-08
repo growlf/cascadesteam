@@ -2,25 +2,6 @@
 layout: page
 title: "Donate"
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Donate
-
 Cascade STEAM Programs are *“Free. Open to everyone. All are welcome. Family friendly. Bring your friends\!”* on purpose: We keep participation free *“for all people of all ages”* as a commitment to Digital Equity.
 
 Cascade STEAM is community supported - we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs. Any donation amount is appreciated. As Cascade STEAM is a 501(c)(3) nonprofit organization your donation is tax deductible.

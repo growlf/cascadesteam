@@ -2,25 +2,6 @@
 layout: page
 title: "Code of Conduct"
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Code of Conduct
-
 ## Introduction
 
 Cascade STEAM represents a community of aspiring, current, and retired STEAM professionals and the many roles that support and advocate STEAM Education in our beautiful region. We celebrate and encourage diversity. All are welcome.

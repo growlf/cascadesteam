@@ -4,25 +4,6 @@ title: Data Engineering
 tags:
   - community-group
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Cascade STEAM Data Engineering
-
 Data Engineering is a Cascade STEAM [Community Group](Community%20Groups/index.md) with a focus on data engineering topics, including artificial intelligence (AI), machine learning (ML), and large language models (LLM), and welcoming participation in [community projects](Community%20Projects/index.md) from a data engineering perspective.
 
 ## Meetings

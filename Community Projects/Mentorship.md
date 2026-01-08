@@ -4,25 +4,6 @@ title: "Mentorship"
 tags:
   - community-project
 ---
-<style>
-  .header {
-    display: none;
-  }
-  .footer {
-    display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Mentorship
-
 Cascade STEAM Mentorship connects community members interested in STEAM in either a "Traditional Mentorship" or "Peer Mentorship" arrangement and provides a support structure for a positive mentorship experience for all.
 
 "Traditional Mentorship" pairs a junior and senior member based on personal and professional interests to help the junior member (mentee) establish and progress goals while the senior member provides personal and professional guidance (mentor).

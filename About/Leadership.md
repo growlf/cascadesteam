@@ -2,25 +2,6 @@
 layout: page
 title: "Leadership"
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Leadership
-
 Cascade STEAM is made possible through the commitment of volunteer leadership and open collaboration of [Partners](Partners.md). Cascade STEAM Leadership includes Board of Directors, Organizers, and Committee Members. Thank you all for your efforts.
 
 ## Board of Directors
