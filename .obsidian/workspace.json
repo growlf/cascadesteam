@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "README.md",
     "News/index.md",
     "Get Involved/index.md",
     "Community Projects/index.md",
@@ -220,7 +221,6 @@
     "Community Groups/Data Engineering.md",
     "Community Groups/Cyber.md",
     "Community Groups/Citizen Science.md",
-    "README.md",
     "assets/template_page.md",
     "About/Organization.md",
     "About",
