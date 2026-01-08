@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "913e242a46932458",
+  "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "assets/_templates",
     "Get Involved/Leadership.md",
     "Get Involved/index.md",
     "Community Projects/Service Corps.md",
@@ -216,7 +217,7 @@
     "Community Groups/index.md",
     "About/index.md",
     "README.md",
-    "template_page.md",
+    "assets/template_page.md",
     "About/outreach.md",
     "About/conduct.md",
     "About/partners.md",
@@ -225,7 +226,6 @@
     "Get Involved",
     "Community Projects",
     "index.md",
-    "Community Groups",
-    "News/whatcom-stem-changes-name-to-cascade-steam.md"
+    "Community Groups"
   ]
 }
