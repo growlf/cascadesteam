@@ -8,13 +8,16 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "GitHub": "https://github.com/growlf/journal",
+      "GitHub": "https://github.com/growlf/cascadesteam",
     },
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
+  head: [
+    Component.PageTitle(),
+  ],
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
@@ -22,7 +25,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
