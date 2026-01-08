@@ -26,14 +26,14 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 
 ## Current Community Groups
 
-Community Groups are made possible through the commitment of [volunteer organizers](leadership.md) and open collaboration of [partners](partners.md). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
+Community Groups are made possible through the commitment of [volunteer organizers](Leadership.md) and open collaboration of [partners](partners.md). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
 
 Community Groups include:
-- **[Citizen Science](citizen-science.md)**: science, in particular life sciences
-- **[Cyber](cyber.md)**: cybersecurity
-- **[Data Engineering](data-engineering.md)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
-- **[Engineering](engineering.md)**: engineering, including robotics
-- **[Open Source](open-source.md)**: everything open source software and hardware, including GNU/Linux
+- **[Citizen Science](Citizen%20Science.md)**: science, in particular life sciences
+- **[Cyber](Cyber.md)**: cybersecurity
+- **[Data Engineering](Data%20Engineering.md)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
+- **[Engineering](Engineering.md)**: engineering, including robotics
+- **[Open Source](Open%20Source.md)**: everything open source software and hardware, including GNU/Linux
 
 We also collaborate with other local community groups, including:
 - **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))

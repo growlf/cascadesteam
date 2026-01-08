@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "LinuxFest Northwest"
-permalink: /linuxfest-northwest
+tags:
+  - community-project
 ---
 
 <style>

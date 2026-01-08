@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Citizen Science Community Group"
-permalink: /citizen-science
+title: Citizen Science
+tags:
+  - community-group
 ---
 <style>
   .header {

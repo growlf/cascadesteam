@@ -31,7 +31,7 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 
 ## Organization
 
-Please see our [Organization Page](organization.md) to review our mission and structure. Cascade STEAM is made possible through the commitment of [volunteer leadership](leadership.md) and open collaboration of [partners](partners.md). Thank you all for your efforts. 
+Please see our [Organization Page](organization.md) to review our mission and structure. Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership.md) and open collaboration of [partners](partners.md). Thank you all for your efforts. 
 
 ## Get Involved!
 

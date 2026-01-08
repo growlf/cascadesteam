@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Data Engineering Community Group"
-permalink: /data-engineering
+title: Data Engineering
+tags:
+  - community-group
 ---
 <style>
   .header {
@@ -30,7 +31,7 @@ We plan to meet \~monthly on varying days and locations. Meeting details will be
 
 ## Organizers
 
-[Volunteer Organizers](leadership.md) of the Cascade STEAM Citizen Science Community Group are [Eric Veal](https://www.linkedin.com/in/ejveal/) and [Michael Gan](https://www.linkedin.com/in/michaelbgan/). Please contact [data-engineering@cascadesteam.org](mailto:data-engineering@cascadesteam.org) for general inquiries.
+[Volunteer Organizers](Leadership.md) of the Cascade STEAM Citizen Science Community Group are [Eric Veal](https://www.linkedin.com/in/ejveal/) and [Michael Gan](https://www.linkedin.com/in/michaelbgan/). Please contact [data-engineering@cascadesteam.org](mailto:data-engineering@cascadesteam.org) for general inquiries.
 
 ## Contact Us
 

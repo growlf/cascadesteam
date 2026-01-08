@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Educational Robotics Community Project"
-permalink: /educational-robotics
+tags:
+  - community-project
 ---
 
 <style>

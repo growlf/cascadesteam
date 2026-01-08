@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Service Corps"
-permalink: /service-corps
+tags:
+  - community-project
 ---
 
 <style>

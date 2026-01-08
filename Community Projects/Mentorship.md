@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Mentorship"
-permalink: /mentorship
+tags:
+  - community-project
 ---
 <style>
   .header {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Get Involved/Leadership.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Leadership"
             }
           }
         ]
@@ -197,35 +197,35 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "Get Involved/index.md",
+    "Community Projects/Service Corps.md",
+    "Community Projects/Mentorship.md",
+    "Community Projects/LinuxFest NorthWest.md",
+    "Community Projects/Helpdesk.md",
+    "Community Projects/Hack Night.md",
+    "Community Projects/Educational Robotics.md",
+    "Community Projects/Digital Navigators.md",
+    "Community Groups/Open Source.md",
+    "Community Groups/Engineering.md",
+    "Community Groups/Data Engineering.md",
+    "Community Groups/Cyber.md",
+    "Community Groups/Citizen Science.md",
+    "news/index.md",
+    "Community Projects/index.md",
+    "Community Groups/index.md",
+    "About/index.md",
+    "README.md",
     "template_page.md",
     "About/outreach.md",
-    "Community Groups/open-source.md",
-    "Community Groups/cyber.md",
     "About/conduct.md",
     "About/partners.md",
-    "About/index.md",
-    "Get Involved/leadership.md",
+    "Get Involved/Leadership.md",
     "About/organization.md",
     "About",
-    "Community Projects/index.md",
-    "Community Projects/mentorship.md",
-    "Community Projects/helpdesk.md",
-    "Community Projects/digital-navigators.md",
-    "Community Groups/data-engineering.md",
-    "Community Groups/citizen-science.md",
-    "Get Involved/index.md",
     "Get Involved",
-    "Community Groups/index.md",
     "Community Projects",
     "index.md",
     "Community Groups",
-    "README.md",
-    "news/index.md",
-    "news/whatcom-stem-changes-name-to-cascade-steam.md",
-    "news/whatcom-stem-announces-formation.md",
-    "Community Projects/service-corps.md",
-    "Community Projects/hack-night.md",
-    "news/cascade-steam-community-update-may-2025.md",
-    "news/cascade-steam-community-update-june-2025.md"
+    "news/whatcom-stem-changes-name-to-cascade-steam.md"
   ]
 }

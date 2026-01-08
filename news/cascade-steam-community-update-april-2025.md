@@ -16,7 +16,7 @@ permalink: /news/cascade-steam-community-update-april-2025
 
 <br>
 
-[Home](/) | [Organization](organization.md) | [Leadership](leadership.md) | [Partners](partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](mentorship.md)
+[Home](/) | [Organization](organization.md) | [Leadership](Leadership.md) | [Partners](partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](Mentorship.md)
 
 <br>
 
@@ -41,7 +41,7 @@ permalink: /news/cascade-steam-community-update-april-2025
 
 [Cascade STEAM](/) is now launched\! We welcome you to join us as we *“Develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.”*
 
-Some programs, such as [Community Groups](Community%20Groups/index.md), [Community Projects](Community%20Projects/index.md), and [Mentorship](mentorship.md) are available to participate in NOW, while others will begin in Summer or Fall quarter.
+Some programs, such as [Community Groups](Community%20Groups/index.md), [Community Projects](Community%20Projects/index.md), and [Mentorship](Mentorship.md) are available to participate in NOW, while others will begin in Summer or Fall quarter.
 
 Join the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) to receive event announcements and to RSVP for events. Join the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) (Discord) for online discussion.
 
@@ -51,15 +51,15 @@ Cascade STEAM Programs are: *“Free. Open to everyone. All are welcome. Family 
 
 ### Community Groups
 
-[Community Groups](https://cascadesteam.org/community-groups) are launched\! Community Groups organize communities of aspiring, current, and retired professionals focusing on a STEAM topic. Recurring community groups now include [Bellingham Codes](https://bellingham.codes), [Bellingham Linux Users Group](https://blug.org), [Citizen Science](citizen-science.md), [Cyber](cyber.md), [Data Engineering](data-engineering.md), and Engineering. See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
+[Community Groups](https://cascadesteam.org/community-groups) are launched\! Community Groups organize communities of aspiring, current, and retired professionals focusing on a STEAM topic. Recurring community groups now include [Bellingham Codes](https://bellingham.codes), [Bellingham Linux Users Group](https://blug.org), [Citizen Science](Citizen%20Science.md), [Cyber](Cyber.md), [Data Engineering](Data%20Engineering.md), and Engineering. See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
 ### Community Projects
 
-[Community Projects](https://cascadesteam.org/community-projects) are launched\! Community Projects organize shared learning experiences focusing on positive community impact, often collaborating with community partners. Join the [Citizen Science Community Group](citizen-science.md) as we continue our organizing in support of the [Stormwater Management Project](Community%20Projects/index.md) in collaboration with [RE Sources](https://re-sources.org) to [help protect Bellingham Bay](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
+[Community Projects](https://cascadesteam.org/community-projects) are launched\! Community Projects organize shared learning experiences focusing on positive community impact, often collaborating with community partners. Join the [Citizen Science Community Group](Citizen%20Science.md) as we continue our organizing in support of the [Stormwater Management Project](Community%20Projects/index.md) in collaboration with [RE Sources](https://re-sources.org) to [help protect Bellingham Bay](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
 
 ### Mentorship
 
-[Mentorship](mentorship.md) is launched\! Mentorship connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. [Registration is now open to participate in the Summer Cohort](http://mentorship-registration.cascadesteam.org). We are facilitating both traditional and peer mentorship relationships and welcome your participation for all folks 18 years of age and older.
+[Mentorship](Mentorship.md) is launched\! Mentorship connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. [Registration is now open to participate in the Summer Cohort](http://mentorship-registration.cascadesteam.org). We are facilitating both traditional and peer mentorship relationships and welcome your participation for all folks 18 years of age and older.
 
 ## Events
 
@@ -69,11 +69,11 @@ Join the Bellingham Linux Users Group on April 16th from 5:30pm-7:00pm at the Be
 
 ### Cascade STEAM Citizen Science \- April 17th
 
-Join Cascade STEAM [Citizen Science](citizen-science.md) on April 17th from 5:30pm-7:30pm at RE Sources. We continue to focus on our [RE Sources](https://re-sources.org) [Stormwater Monitoring](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) [Community Project](https://cascadesteam.org/community-projects) to help protect Bellingham Bay. [Details and RSVP at Meetup](https://meetup.com/cascadesteam). (In collaboration with [RE Sources](https://re-sources.org).)
+Join Cascade STEAM [Citizen Science](Citizen%20Science.md) on April 17th from 5:30pm-7:30pm at RE Sources. We continue to focus on our [RE Sources](https://re-sources.org) [Stormwater Monitoring](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) [Community Project](https://cascadesteam.org/community-projects) to help protect Bellingham Bay. [Details and RSVP at Meetup](https://meetup.com/cascadesteam). (In collaboration with [RE Sources](https://re-sources.org).)
 
 ### Cascade STEAM Data Engineering  \- April 24th
 
-Join Cascade STEAM [Data Engineering](data-engineering.md) on April 24th from 6:00pm-7:30pm at Bellingham Makerspace. Our topic this month is Data Lakes led by organizer Ian Hogan.  [Details and RSVP at Meetup](https://meetup.com/cascadesteam). (In collaboration with [Bellingham Tableau User Group](http://usergroups.tableau.com/bellingham-tableau-user-group/).)
+Join Cascade STEAM [Data Engineering](Data%20Engineering.md) on April 24th from 6:00pm-7:30pm at Bellingham Makerspace. Our topic this month is Data Lakes led by organizer Ian Hogan.  [Details and RSVP at Meetup](https://meetup.com/cascadesteam). (In collaboration with [Bellingham Tableau User Group](http://usergroups.tableau.com/bellingham-tableau-user-group/).)
 
 ### Cascade STEAM Spring Social \- April 25th
 
@@ -85,7 +85,7 @@ Cascade STEAM is excited to help organize the 25th Annual LinuxFest Northwest ev
 
 ### Cascade STEAM Cyber \- May 8th
 
-Join Cascade STEAM [Cyber](cyber.md) on May 8th from 5:30pm-7:00pm at Bellingham Makerspace for our Startup Meeting. Anyone with an interest in cybersecurity is welcome and encouraged to attend\! [Details and RSVP at Meetup](https://meetup.com/cascadesteam).
+Join Cascade STEAM [Cyber](Cyber.md) on May 8th from 5:30pm-7:00pm at Bellingham Makerspace for our Startup Meeting. Anyone with an interest in cybersecurity is welcome and encouraged to attend\! [Details and RSVP at Meetup](https://meetup.com/cascadesteam).
 
 ## Calendar
 
@@ -94,10 +94,10 @@ See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for schedul
 ### Upcoming Cascade STEAM Events
 
 * April 16th: [Bellingham Linux Users Group](https://blug.org) \- LinuxFest Northwest 2025 Preview & Git Workshop (in collaboration with [LinuxFest Northwest](https://lfnw.org))  
-* April 17th: [Citizen Science Community Group](citizen-science.md) \- Stormwater Monitoring Community Project Continued (in collaboration with [RE Sources](https://re-sources.org))  
-* April 24th: [Data Engineering Community Group](data-engineering.md) \- Data Lakes (in collaboration with [Bellingham Tableau User Group](http://usergroups.tableau.com/bellingham-tableau-user-group/))  
+* April 17th: [Citizen Science Community Group](Citizen%20Science.md) \- Stormwater Monitoring Community Project Continued (in collaboration with [RE Sources](https://re-sources.org))  
+* April 24th: [Data Engineering Community Group](Data%20Engineering.md) \- Data Lakes (in collaboration with [Bellingham Tableau User Group](http://usergroups.tableau.com/bellingham-tableau-user-group/))  
 * April 25th: Spring Social (in collaboration with [LinuxFest Northwest](https://lfnw.org))  
-* May 8th: [Cyber Community Group](cyber.md) \- Launch Meeting
+* May 8th: [Cyber Community Group](Cyber.md) \- Launch Meeting
 
 ### Upcoming LinuxFest Northwest Events
 
@@ -120,7 +120,7 @@ See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for schedul
 
 ## Get Involved
 
-Are you interested to help build Cascade STEAM? [Do have an idea that you’d like to share](http://community-survey.cascadesteam.org)? We welcome all people of all ages to [get involved](Get%20Involved/index.md) and join our team of [volunteer organizers](leadership.md). We’re developing programs, connecting with community organizations, and preparing infrastructure and outreach materials. Bring your ideas and passions with you and we’ll make them happen together\!
+Are you interested to help build Cascade STEAM? [Do have an idea that you’d like to share](http://community-survey.cascadesteam.org)? We welcome all people of all ages to [get involved](Get%20Involved/index.md) and join our team of [volunteer organizers](Leadership.md). We’re developing programs, connecting with community organizations, and preparing infrastructure and outreach materials. Bring your ideas and passions with you and we’ll make them happen together\!
 
 ## Donate
 

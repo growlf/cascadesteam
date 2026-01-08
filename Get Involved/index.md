@@ -88,7 +88,7 @@ Here are a few areas where we can plug you in now! Don’t see what you are look
 
 ### Advisory Committee
 
-- Collaborate with fellow members of [volunteer leadership](leadership.md) in areas of your expertise in support of Cascade STEAM efforts.
+- Collaborate with fellow members of [volunteer leadership](Leadership.md) in areas of your expertise in support of Cascade STEAM efforts.
 
 ### Engagement Committee
 

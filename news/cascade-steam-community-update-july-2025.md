@@ -17,7 +17,7 @@ permalink: /news/cascade-steam-community-update-july-2025
 
 <br>
 
-[Home](/) | [Organization](organization.md) | [Leadership](leadership.md) | [Partners](partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](mentorship.md)
+[Home](/) | [Organization](organization.md) | [Leadership](Leadership.md) | [Partners](partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](Mentorship.md)
 
 <br>
 

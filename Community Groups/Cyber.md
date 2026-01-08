@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Cyber Community Group"
-permalink: /cyber
+title: Cyber
+tags:
+  - community-group
 ---
 <style>
   .header {
@@ -64,7 +65,7 @@ Thursday January 8, 2026 @ 5:20pm-7:00pm<br>
 
 ## Organizers
 
-[Volunteer Organizers](leadership.md) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), and [David Hirsch](https://www.linkedin.com/in/davidhirsch3). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
+[Volunteer Organizers](Leadership.md) of the Cascade STEAM Cyber Community Group are [Marty Mulholland](https://www.linkedin.com/in/mulholland99), and [David Hirsch](https://www.linkedin.com/in/davidhirsch3). Please contact [cyber@cascadesteam.org](mailto:cyber@cascadesteam.org) for general inquiries.
 
 ## Contact Us
 

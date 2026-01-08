@@ -22,7 +22,7 @@ permalink: /partners
 
 # Partners
 
-Cascade STEAM is made possible through the commitment of [volunteer leadership](leadership.md) and open collaboration of partners. Thank you all for your efforts. Partners include:
+Cascade STEAM is made possible through the commitment of [volunteer leadership](Leadership.md) and open collaboration of partners. Thank you all for your efforts. Partners include:
 
 ## Community Partners
 

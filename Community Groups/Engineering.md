@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Engineering Community Group"
-permalink: /engineering
+title: "Engineering"
+tags:
+  - community-group
 ---
 <style>
   .header {
