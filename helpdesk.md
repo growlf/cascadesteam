@@ -25,7 +25,7 @@ redirect_from:
 
 # HelpDesk
 
-Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
+Community Tech Support is now available from [Cascade STEAM](https://cascadesteam.org) via our [HelpDesk](helpdesk.md) Program. Assistance is offered to the public from volunteer technology professionals and students by donation.
 
 Program dates in November 2025 are **November 15, 22, and 29 from 1pm-4pm** located at the [Bellingham Makerspace](https://bellinghammakerspace.org) in the [Bellis Fair Mall](https://bellisfair.com).
 

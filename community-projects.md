@@ -34,19 +34,19 @@ FREE Community Tech Support is now available from Cascade STEAM via our [Digital
 
 ## Hack Night
 
-Join Cascade STEAM for [Hack Night](/hack-night) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
+Join Cascade STEAM for [Hack Night](hack-night.md) on Saturdays from 4pm-"Late" at the Bellingham Makerspace for an open, collaborative session of shared learning! Bring your projects, homework, questions, and ideas and let’s do them together.
 
 ## HelpDesk
 
-Community Tech Support is now available from Cascade STEAM via our [HelpDesk](/helpdesk) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
+Community Tech Support is now available from Cascade STEAM via our [HelpDesk](helpdesk.md) Program. Assistance is offered to the public from volunteer technology professionals and students by suggested donation.
 
 ## LinuxFest Northwest Conference
 
-[LinuxFest Northwest](/linuxfest-northwest) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional\! LinuxFest Northwest 2026 will be held April 24-26, 2026 in Bellingham, WA with the main conference held at Bellingham Technical College and social events held at various venues around Bellingham.
+[LinuxFest Northwest](linuxfest-northwest.md) is an annual, free-to-attend F/LOSS conference featuring presentations and exhibits on free/libre and open source topics, as well as Linux distributions & applications, licensing, InfoSec, DevOps, AI/ML, creative software, hardware, and privacy; something for everyone from the novice to the professional\! LinuxFest Northwest 2026 will be held April 24-26, 2026 in Bellingham, WA with the main conference held at Bellingham Technical College and social events held at various venues around Bellingham.
 
 ## Mentorship
 
-[Mentorship](/mentorship) connects community members interested in STEAM in either a “Traditional Mentorship” or “Peer Mentorship” arrangement, providing a support structure for a positive mentorship experience for all.
+[Mentorship](mentorship.md) connects community members interested in STEAM in either a “Traditional Mentorship” or “Peer Mentorship” arrangement, providing a support structure for a positive mentorship experience for all.
 
 ## Service Corps
 

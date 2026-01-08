@@ -17,7 +17,7 @@ permalink: /news/cascade-steam-community-update-june-2025
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](mentorship.md)
 
 <br>
 
@@ -36,7 +36,7 @@ permalink: /news/cascade-steam-community-update-june-2025
 
 ## **Update**
 
-In May we launched the Cascade STEAM [Cyber](/cyber) and [Engineering Community Groups](h/engineering). Closing at the end of May was registration for the [Summer Mentorship Program Cohort](/mentorship), which will begin in June with registered participants. We continue to meet and organize in support of the [Stormwater Monitoring Community Project](/community-projects#stormwater-monitoring-project).
+In May we launched the Cascade STEAM [Cyber](/cyber) and [Engineering Community Groups](h/engineering). Closing at the end of May was registration for the [Summer Mentorship Program Cohort](mentorship.md), which will begin in June with registered participants. We continue to meet and organize in support of the [Stormwater Monitoring Community Project](/community-projects#stormwater-monitoring-project).
 
 A reminder that videos of the sessions for [LinuxFest Northwest](https://lfnw.org) are now completed and can be viewed online at the [LinuxFest Northwest 2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLjDc7gDlIASRAcG0cxWYOnNGwFnykUMNZ).
 
@@ -84,7 +84,7 @@ Join the [Citizen Science Community Group](/citizen-science) as we continue our 
 
 ### **Mentorship**
 
-[Mentorship](/mentorship) connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. Registration for the Summer Mentorship Cohort is now closed. Participants will be connected to their mentorship partner on June 5th. Stay tuned for an announcement for the next Mentorship Program Cohort.
+[Mentorship](mentorship.md) connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. Registration for the Summer Mentorship Cohort is now closed. Participants will be connected to their mentorship partner on June 5th. Stay tuned for an announcement for the next Mentorship Program Cohort.
 
 ## **Calendar**
 

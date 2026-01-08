@@ -16,7 +16,7 @@ permalink: /news/cascade-steam-community-update-april-2025
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](mentorship.md)
 
 <br>
 
@@ -41,7 +41,7 @@ permalink: /news/cascade-steam-community-update-april-2025
 
 [Cascade STEAM](/) is now launched\! We welcome you to join us as we *“Develop and promote STEAM Education, Career Connected Learning, Digital Literacy, and Digital Equity for all people of all ages.”*
 
-Some programs, such as [Community Groups](/community-groups), [Community Projects](/community-projects), and [Mentorship](/mentorship) are available to participate in NOW, while others will begin in Summer or Fall quarter.
+Some programs, such as [Community Groups](/community-groups), [Community Projects](/community-projects), and [Mentorship](mentorship.md) are available to participate in NOW, while others will begin in Summer or Fall quarter.
 
 Join the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) to receive event announcements and to RSVP for events. Join the [Cascade STEAM Community Hub](http://hub.cascadesteam.org) (Discord) for online discussion.
 
@@ -59,7 +59,7 @@ Cascade STEAM Programs are: *“Free. Open to everyone. All are welcome. Family 
 
 ### Mentorship
 
-[Mentorship](/mentorship) is launched\! Mentorship connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. [Registration is now open to participate in the Summer Cohort](http://mentorship-registration.cascadesteam.org). We are facilitating both traditional and peer mentorship relationships and welcome your participation for all folks 18 years of age and older.
+[Mentorship](mentorship.md) is launched\! Mentorship connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. [Registration is now open to participate in the Summer Cohort](http://mentorship-registration.cascadesteam.org). We are facilitating both traditional and peer mentorship relationships and welcome your participation for all folks 18 years of age and older.
 
 ## Events
 

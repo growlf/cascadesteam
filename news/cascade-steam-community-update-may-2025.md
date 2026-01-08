@@ -16,7 +16,7 @@ permalink: /news/cascade-steam-community-update-may-2025
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](/mentorship)
+[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](mentorship.md)
 
 <br>
 
@@ -35,11 +35,11 @@ permalink: /news/cascade-steam-community-update-may-2025
 
 ## Update
 
-April was an exciting month! We launched Cascade STEAM, [Community Groups](/community-groups), [Community Projects](/community-projects), and [Mentorship](/mentorship).
+April was an exciting month! We launched Cascade STEAM, [Community Groups](/community-groups), [Community Projects](/community-projects), and [Mentorship](mentorship.md).
 
 We also collaborated with [LinuxFest Northwest](https://lfnw.org) to organize and host the [LinuxFest Northwest 2025 Event](https://lfnw.org/schedule/). It was a blast! See the [LinuxFest Northwest 2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLjDc7gDlIASRAcG0cxWYOnNGwFnykUMNZ) for recordings of the fest as they become available.
 
-New in May is the launch of the Cascade STEAM [Cyber](/cyber) and [Engineering](/engineering) [Community Groups](/engineering)! Closing at the end of May is registration for the [Summer Mentorship Program Cohort](/mentorship), which will begin in June with registered participants.
+New in May is the launch of the Cascade STEAM [Cyber](/cyber) and [Engineering](/engineering) [Community Groups](/engineering)! Closing at the end of May is registration for the [Summer Mentorship Program Cohort](mentorship.md), which will begin in June with registered participants.
 
 ## Programs
 
@@ -75,7 +75,7 @@ Join [Cascade STEAM Data Engineering](/data-engineering) on May 28th from 6:00pm
 
 ### Mentorship
 
-[Mentorship](/mentorship) connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. [Registration is now open to participate in the Summer Cohort](http://mentorship-registration.cascadesteam.org). We are facilitating both traditional and peer mentorship relationships and welcome your participation for all folks 18 years of age and older.
+[Mentorship](mentorship.md) connects students and professionals, junior and senior professionals, and/or peers for organized and supportive personal and professional improvement. [Registration is now open to participate in the Summer Cohort](http://mentorship-registration.cascadesteam.org). We are facilitating both traditional and peer mentorship relationships and welcome your participation for all folks 18 years of age and older.
 
 ## Calendar
 
