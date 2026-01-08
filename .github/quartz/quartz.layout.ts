@@ -8,7 +8,7 @@ import { CustomHeader } from "./components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Component.PageTitle(),
+    CustomHeader(),
   ],
   afterBody: [],
   footer: Component.Footer({
