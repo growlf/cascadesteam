@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leadership.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "leadership"
+              "title": "index"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "leadership.md",
     "index.md",
     "helpdesk.md",
     "about.md",
-    "leadership.md",
     "README.md",
     "news/index.md",
     "news/whatcom-stem-changes-name-to-cascade-steam.md",

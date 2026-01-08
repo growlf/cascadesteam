@@ -1,7 +1,7 @@
 <p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
 
-| [[index\|Home]] | [[About]] | [[community-groups]] | [[community-projects]] | [[get-involved]] | [[donate]] |
-| --------------- | --------- | -------------------- | ---------------------- | ---------------- | ---------- |
+| [[index\|Home]] | [[about\|About]] | [[community-groups\|Community Groups]] | [[community-projects\|Community Projects]] | [[get-involved\|Get Involved]] | [[donate\|Donate]] |
+| --------------- | ---------------- | -------------------------------------- | ------------------------------------------ | ------------------------------ | ------------------ |
 
 # Home
 
