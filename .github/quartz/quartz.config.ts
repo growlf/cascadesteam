@@ -2,60 +2,62 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Cascade STEAM",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "growlf.github.io/journal",
-    ignorePatterns: ["private", "_templates", ".obsidian", "assets"],
-    defaultDateType: "created",
+    baseUrl: "growlf.github.io/cascadesteam",
+    ignorePatterns: ["private", "templates", ".obsidian"],
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Workbench",
-        body: "Space Grotesk",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
         code: "IBM Plex Mono",
-      }
-      //,
-      // colors: {
-      //   lightMode: {
-      //     light: "#eeeeeeff",
-      //     lightgray: "#dbdbdb",
-      //     gray: "#59d75b",
-      //     darkgray: "#464646ff",
-      //     dark: "#00551a",
-      //     secondary: "#037c29",
-      //     tertiary: "#00bc3b",
-      //     highlight: "#00ff8c26"
-      //   },
-      //   darkMode: {
-      //     light: "#00282b",
-      //     lightgray: "#355f3b",
-      //     gray: "#006015",
-      //     darkgray: "#a9a9a9;",
-      //     dark: "#90ff90ff",
-      //     secondary: "#29cb68",
-      //     tertiary: "#8dffb3",
-      //     highlight: "rgba(169, 143, 143, 0.15)",
-      //   },
-      // },
+      },
+      colors: {
+        lightMode: {
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
+        },
+        darkMode: {
+          light: "#161618",
+          lightgray: "#393639",
+          gray: "#646464",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
+        },
+      },
     },
   },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -84,7 +86,10 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
+      Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages(),
     ],
   },
 }
