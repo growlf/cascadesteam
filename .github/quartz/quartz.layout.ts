@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import CustomHeader from "./quartz/components/CustomHeader"
+#import CustomHeader from "./quartz/components/CustomHeader"
 
 // See https://quartz.jzhao.xyz/layout for more information
 
@@ -8,7 +8,7 @@ import CustomHeader from "./quartz/components/CustomHeader"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    CustomHeader(),
+    Component.CustomHeader(),
   ],
   afterBody: [],
   footer: Component.Footer({
