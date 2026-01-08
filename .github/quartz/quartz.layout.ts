@@ -64,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["assets", "README")
+        const omit = new Set(["assets", "README"])
     
         // can also use node.slug or by anything on node.data
         // note that node.data is only present for files that exist on disk
