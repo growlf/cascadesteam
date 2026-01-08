@@ -17,7 +17,7 @@ STEAM is an acronym for the fields of Science, Technology, Engineering, Arts, an
 - [November 18, 2025: Cascade STEAM Hack Night launched - join us for open, collaborative sessions of shared learning](Hack%20Night.md)
 - [October 29, 2025: Cascade STEAM HelpDesk Program launched to provide Community Tech Support by Donation](Helpdesk.md)
 
-See our [News Page](news/index.md) for past topics.
+See our [News Page](News/index.md) for past topics.
 
 ## Programs
 

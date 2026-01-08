@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Get Involved/Leadership.md",
+                "file": "News/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Leadership"
+              "title": "index"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1938a91b149ba902",
+  "active": "913e242a46932458",
   "lastOpenFiles": [
+    "Get Involved/Leadership.md",
     "Get Involved/index.md",
     "Community Projects/Service Corps.md",
     "Community Projects/Mentorship.md",
@@ -210,7 +211,7 @@
     "Community Groups/Data Engineering.md",
     "Community Groups/Cyber.md",
     "Community Groups/Citizen Science.md",
-    "news/index.md",
+    "News/index.md",
     "Community Projects/index.md",
     "Community Groups/index.md",
     "About/index.md",
@@ -219,13 +220,12 @@
     "About/outreach.md",
     "About/conduct.md",
     "About/partners.md",
-    "Get Involved/Leadership.md",
     "About/organization.md",
     "About",
     "Get Involved",
     "Community Projects",
     "index.md",
     "Community Groups",
-    "news/whatcom-stem-changes-name-to-cascade-steam.md"
+    "News/whatcom-stem-changes-name-to-cascade-steam.md"
   ]
 }
