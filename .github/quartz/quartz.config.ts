@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "growlf.github.io/journal",
-    ignorePatterns: ["private", "_templates", ".obsidian", "_assets"],
+    ignorePatterns: ["private", "_templates", ".obsidian", "assets"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
