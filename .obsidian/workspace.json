@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Community Groups/Open Source.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Open Source"
             }
           }
         ]
@@ -197,11 +197,12 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
-    "README.md",
-    "News/index.md",
-    "Get Involved/index.md",
-    "Community Projects/index.md",
     "Community Groups/index.md",
+    "Community Projects/index.md",
+    "Get Involved/index.md",
+    "README.md",
+    "index.md",
+    "News/index.md",
     "About/index.md",
     "About/Conduct.md",
     "About/Donate.md",
@@ -226,7 +227,6 @@
     "About",
     "Get Involved",
     "Community Projects",
-    "index.md",
     "Community Groups"
   ]
 }

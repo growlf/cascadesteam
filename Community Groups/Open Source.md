@@ -1,28 +1,10 @@
 ---
 layout: page
-title: "Open Source Community Group"
+title: Open Source
 tags:
   - community-group
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
 <p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md)
-
-<br>
-
-# Open Source
-
 ## About
 
 Join us each month as we meet to discuss Open Source Software and Hardware. Our current focus is a HomeLab Series highlighting fundamental open source software. Explore how you can design your own homelab and learn how we are incorporating these solutions into our own organization and programs.
