@@ -16,7 +16,7 @@ permalink: /news
 
 <br>
 
-[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
 
 <br>
 
@@ -29,15 +29,15 @@ permalink: /news
 - [July 9, 2025: Cascade STEAM Community Update - July 2025](/news/cascade-steam-community-update-july-2025)
 - [June 4, 2025: Cascade STEAM Community Update - June 2025](/news/cascade-steam-community-update-june-2025)
 - [May 7, 2025: Cascade STEAM Community Update - May 2025](/news/cascade-steam-community-update-may-2025)
-- [May 5, 2025: Cascade STEAM Engineering Community Group Launched](/engineering)
+- [May 5, 2025: Cascade STEAM Engineering Community Group Launched](engineering.md)
 - [April 16, 2025: Cascade STEAM Community Update - April 2025](/news/cascade-steam-community-update-april-2025)
-- [April 16, 2025: Cascade STEAM Cyber Community Group Launched](/cyber)
-- [April 16, 2025: Cascade STEAM Community Projects Launched](/community-projects)
-- [March 19, 2025: Cascade STEAM Community Groups Launched](/community-groups)
+- [April 16, 2025: Cascade STEAM Cyber Community Group Launched](cyber.md)
+- [April 16, 2025: Cascade STEAM Community Projects Launched](Community%20Projects/index.md)
+- [March 19, 2025: Cascade STEAM Community Groups Launched](Community%20Groups/index.md)
 - [March 6, 2025: Cascade STEAM Mentorship Program Launches](mentorship.md)
 - [October 11, 2023: Whatcom STEM Changes Name to Cascade STEAM](/news/whatcom-stem-changes-name-to-cascade-steam)
 - [May 9, 2023: Whatcom STEM Announces Formation](/news/whatcom-stem-announces-formation)
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).

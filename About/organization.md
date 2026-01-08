@@ -16,7 +16,7 @@ permalink: /organization
 
 <br>
 
-[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
 
 <br>
 
@@ -65,7 +65,7 @@ In alignment with organization mission we will facilitate engagement with the co
 
 ### Composition
 
-The organization is comprised of a Board of Directors and Board Committees, with individuals representing (1) the fields of science, technology, engineering, arts, and mathematics, (2) education, industry, local government, and nonprofit sectors, and (3) community interests. Please refer to our [Leadership](/leadership) and [Partners](/partners) for current collaborators.
+The organization is comprised of a Board of Directors and Board Committees, with individuals representing (1) the fields of science, technology, engineering, arts, and mathematics, (2) education, industry, local government, and nonprofit sectors, and (3) community interests. Please refer to our [Leadership](leadership.md) and [Partners](partners.md) for current collaborators.
 
 ### Terms
 
@@ -84,4 +84,4 @@ Committees include:
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).

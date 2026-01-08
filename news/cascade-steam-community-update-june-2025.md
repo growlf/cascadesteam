@@ -17,7 +17,7 @@ permalink: /news/cascade-steam-community-update-june-2025
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](mentorship.md)
+[Home](/) | [Organization](organization.md) | [Leadership](leadership.md) | [Partners](partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](mentorship.md)
 
 <br>
 
@@ -36,11 +36,11 @@ permalink: /news/cascade-steam-community-update-june-2025
 
 ## **Update**
 
-In May we launched the Cascade STEAM [Cyber](/cyber) and [Engineering Community Groups](h/engineering). Closing at the end of May was registration for the [Summer Mentorship Program Cohort](mentorship.md), which will begin in June with registered participants. We continue to meet and organize in support of the [Stormwater Monitoring Community Project](/community-projects#stormwater-monitoring-project).
+In May we launched the Cascade STEAM [Cyber](cyber.md) and [Engineering Community Groups](h/engineering). Closing at the end of May was registration for the [Summer Mentorship Program Cohort](mentorship.md), which will begin in June with registered participants. We continue to meet and organize in support of the [Stormwater Monitoring Community Project](Community%20Projects/index.md#stormwater-monitoring-project).
 
 A reminder that videos of the sessions for [LinuxFest Northwest](https://lfnw.org) are now completed and can be viewed online at the [LinuxFest Northwest 2025 YouTube Playlist](https://www.youtube.com/playlist?list=PLjDc7gDlIASRAcG0cxWYOnNGwFnykUMNZ).
 
-Planned for Summer is development of the Internship, Volunteers, and Digital Navigators Programs. Please reach out if you’d like to [get involved](/get-involved) with these efforts. Brief program summaries:
+Planned for Summer is development of the Internship, Volunteers, and Digital Navigators Programs. Please reach out if you’d like to [get involved](Get%20Involved/index.md) with these efforts. Brief program summaries:
 
 * **Internship**: Supporting students through internship and benefitting local nonprofit community partners through the execution of student projects.  
 * **Volunteers**: Organizing the volunteer needs of both Cascade STEAM programs and facilitating the STEAM-related needs of community partners.  
@@ -52,7 +52,7 @@ Cascade STEAM Programs are: *“Free. Open to everyone. All are welcome. Family 
 
 ### **Community Groups**
 
-[Community Groups](/community-groups) organize communities of aspiring, current, and retired professionals focusing on a STEAM topic. Recurring community groups include [Bellingham Linux Users Group](https://blug.org), [Citizen Science](/citizen-science), [Cyber](/cyber), [Data Engineering](/data-engineering), and [Engineering](/engineering). See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
+[Community Groups](Community%20Groups/index.md) organize communities of aspiring, current, and retired professionals focusing on a STEAM topic. Recurring community groups include [Bellingham Linux Users Group](https://blug.org), [Citizen Science](citizen-science.md), [Cyber](cyber.md), [Data Engineering](data-engineering.md), and [Engineering](engineering.md). See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
 #### **Bellingham Linux Users Group**
 
@@ -60,27 +60,27 @@ Join the [Bellingham Linux Users Group](/blug) on June 18th from 5:30pm-7:00pm a
 
 #### **Cascade STEAM Citizen Science**
 
-Join Cascade STEAM [Citizen Science](/citizen-science) on June 19th from 5:30pm-7:30pm at [RE Sources](https://re-sources.org). We continue to focus on our [Stormwater Monitoring Community Project](/community-projects#stormwater-monitoring-project) to help protect Bellingham Bay [in collaboration with RE Sources](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
+Join Cascade STEAM [Citizen Science](citizen-science.md) on June 19th from 5:30pm-7:30pm at [RE Sources](https://re-sources.org). We continue to focus on our [Stormwater Monitoring Community Project](Community%20Projects/index.md#stormwater-monitoring-project) to help protect Bellingham Bay [in collaboration with RE Sources](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
 
 #### **Cascade STEAM Cyber**
 
-Join Cascade STEAM [Cyber](/cyber) on June 12th from 5:20pm-7:00pm at Diamond Jim’s Grill for our Second Meeting featuring a Career Spotlight & Presentation: Cybersecurity Audits & Tools, presented by Steven Reed, IT Cybersecurity Auditor, Washington State Auditor’s Office (SAO). Anyone with an interest in cybersecurity is welcome and encouraged to attend.
+Join Cascade STEAM [Cyber](cyber.md) on June 12th from 5:20pm-7:00pm at Diamond Jim’s Grill for our Second Meeting featuring a Career Spotlight & Presentation: Cybersecurity Audits & Tools, presented by Steven Reed, IT Cybersecurity Auditor, Washington State Auditor’s Office (SAO). Anyone with an interest in cybersecurity is welcome and encouraged to attend.
 
 #### **Cascade STEAM Data Engineering**
 
-Join Cascade STEAM [Data Engineering](/data-engineering) on June 25th from 6:00pm-7:30pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Our topic this month is "Prompt Engineering" led by co-organizer Ryan Christensen. Anyone with an interest in data engineering, data analytics, artificial intelligence, or large language models is welcome and encouraged to attend.
+Join Cascade STEAM [Data Engineering](data-engineering.md) on June 25th from 6:00pm-7:30pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Our topic this month is "Prompt Engineering" led by co-organizer Ryan Christensen. Anyone with an interest in data engineering, data analytics, artificial intelligence, or large language models is welcome and encouraged to attend.
 
 #### **Cascade STEAM Engineering**
 
-Join Cascade STEAM [Engineering](/engineering) on June 11th from 5:30pm-7:00pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Anyone with an interest in engineering is welcome and encouraged to attend.
+Join Cascade STEAM [Engineering](engineering.md) on June 11th from 5:30pm-7:00pm at the [Bellingham Makerspace](https://bellinghammakerspace.org). Anyone with an interest in engineering is welcome and encouraged to attend.
 
 ### **Community Projects**
 
-[Community Projects](/community-projects) organize shared learning experiences focusing on positive community impact, often collaborating with community partners.
+[Community Projects](Community%20Projects/index.md) organize shared learning experiences focusing on positive community impact, often collaborating with community partners.
 
 #### **Stormwater Monitoring Community Project**
 
-Join the [Citizen Science Community Group](/citizen-science) as we continue our organizing in support of the [Stormwater Monitoring Community Project](/community-projects#stormwater-monitoring-project) in collaboration with [RE Sources](https://re-sources.org) to [help protect Bellingham Bay](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
+Join the [Citizen Science Community Group](citizen-science.md) as we continue our organizing in support of the [Stormwater Monitoring Community Project](Community%20Projects/index.md#stormwater-monitoring-project) in collaboration with [RE Sources](https://re-sources.org) to [help protect Bellingham Bay](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
 
 ### **Mentorship**
 
@@ -92,11 +92,11 @@ See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details
 
 ### **Upcoming Cascade STEAM Events**
 
-* June 11th: [Engineering Community Group](/engineering)  
-* June 12th: [Cyber Community Group](/cyber)  
+* June 11th: [Engineering Community Group](engineering.md)  
+* June 12th: [Cyber Community Group](cyber.md)  
 * June 18th: [Bellingham Linux Users Group](https://blug.org)  
-* June 19th: [Citizen Science Community Group](/citizen-science) & [Stormwater Monitoring Community Project](/community-projects)  
-* June 25th: [Data Engineering Community Group](/data-engineering)
+* June 19th: [Citizen Science Community Group](citizen-science.md) & [Stormwater Monitoring Community Project](Community%20Projects/index.md)  
+* June 25th: [Data Engineering Community Group](data-engineering.md)
 
 ### **Upcoming Partner Events**
 
@@ -113,14 +113,14 @@ See the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) for details
 
 ## **Get Involved**
 
-Are you interested to help build Cascade STEAM? [Do have an idea that you’d like to share](http://community-survey.cascadesteam.org)? We welcome all people of all ages to [get involved](/get-involved) and join our team of [volunteer organizers](/leadership). We’re developing programs, connecting with community organizations, and preparing infrastructure and outreach materials to be successful in our community engagement. Bring your ideas and passions with you and we’ll make them happen together\!
+Are you interested to help build Cascade STEAM? [Do have an idea that you’d like to share](http://community-survey.cascadesteam.org)? We welcome all people of all ages to [get involved](Get%20Involved/index.md) and join our team of [volunteer organizers](leadership.md). We’re developing programs, connecting with community organizations, and preparing infrastructure and outreach materials to be successful in our community engagement. Bring your ideas and passions with you and we’ll make them happen together\!
 
 ## **Donate**
 
-Cascade STEAM is community supported \- we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs. Any donation amount is appreciated. See our [Donate](/donate) page for additional details and payment options. Thank you for your support\!
+Cascade STEAM is community supported \- we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs. Any donation amount is appreciated. See our [Donate](donate.md) page for additional details and payment options. Thank you for your support\!
 
 [» DONATE NOW «](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

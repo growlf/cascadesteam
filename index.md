@@ -1,6 +1,6 @@
 <p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
 
-| [[index\|Home]] | [[about\|About]] | [[community-groups\|Community Groups]] | [[community-projects\|Community Projects]] | [[get-involved\|Get Involved]] | [[donate\|Donate]] |
+| [[index\|Home]] | [[About/index\|About]] | [[Community Groups/index\|Community Groups]] | [[Community Projects/index\|Community Projects]] | [[Get Involved/index\|Get Involved]] | [[donate\|Donate]] |
 | --------------- | ---------------- | -------------------------------------- | ------------------------------------------ | ------------------------------ | ------------------ |
 
 # Home
@@ -22,8 +22,8 @@ See our [News Page](news/index.md) for past topics.
 ## Programs
 
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
-- **[Community Groups](/community-groups)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
-- **[Community Projects](/community-projects)**: Organized community engagement and community service projects, often collaborating with community partners.
+- **[Community Groups](Community%20Groups/index.md)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
+- **[Community Projects](Community%20Projects/index.md)**: Organized community engagement and community service projects, often collaborating with community partners.
 
 ## Events
 
@@ -39,8 +39,8 @@ Join our [Community Hub](http://hub.cascadesteam.org) to connect virtually with 
 
 ## Code of Conduct
 
-All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](/conduct).
+All participants of Cascade STEAM events, activities, and programs agree to commit to our [Code of Conduct](conduct.md).
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

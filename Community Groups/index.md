@@ -16,7 +16,7 @@ permalink: /community-groups
 
 <br>
 
-[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
 
 <br>
 
@@ -26,14 +26,14 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 
 ## Current Community Groups
 
-Community Groups are made possible through the commitment of [volunteer organizers](/leadership) and open collaboration of [partners](/partners). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
+Community Groups are made possible through the commitment of [volunteer organizers](leadership.md) and open collaboration of [partners](partners.md). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
 
 Community Groups include:
-- **[Citizen Science](/citizen-science)**: science, in particular life sciences
-- **[Cyber](/cyber)**: cybersecurity
-- **[Data Engineering](/data-engineering)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
-- **[Engineering](/engineering)**: engineering, including robotics
-- **[Open Source](/open-source)**: everything open source software and hardware, including GNU/Linux
+- **[Citizen Science](citizen-science.md)**: science, in particular life sciences
+- **[Cyber](cyber.md)**: cybersecurity
+- **[Data Engineering](data-engineering.md)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
+- **[Engineering](engineering.md)**: engineering, including robotics
+- **[Open Source](open-source.md)**: everything open source software and hardware, including GNU/Linux
 
 We also collaborate with other local community groups, including:
 - **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))
@@ -56,4 +56,4 @@ Shared resources include:
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).

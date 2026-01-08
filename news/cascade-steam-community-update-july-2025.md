@@ -17,7 +17,7 @@ permalink: /news/cascade-steam-community-update-july-2025
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](mentorship.md)
+[Home](/) | [Organization](organization.md) | [Leadership](leadership.md) | [Partners](partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](mentorship.md)
 
 <br>
 
@@ -132,4 +132,4 @@ Cascade STEAM is community supported \- we are NOT a member organization with me
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

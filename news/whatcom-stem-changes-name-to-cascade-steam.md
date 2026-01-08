@@ -16,7 +16,7 @@ permalink: /news/whatcom-stem-changes-name-to-cascade-steam
 
 <br>
 
-[Home](/) | [Organization](/organization) | [Leadership](/leadership) | [Partners](/partners) | [Get Involved](/get-involved) | [Donate](/donate) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Mentorship](mentorship.md)
+[Home](/) | [Organization](organization.md) | [Leadership](leadership.md) | [Partners](partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](mentorship.md)
 
 <br>
 

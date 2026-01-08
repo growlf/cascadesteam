@@ -16,7 +16,7 @@ permalink: /conduct
 
 <br>
 
-[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
 
 <br>
 
@@ -67,7 +67,7 @@ Note: Reporter is NOT required to include contact information, but including con
 
 ### Report Review
 
-Upon receiving a report, the Cascade STEAM Board of Directors will convene and assemble a team from Cascade STEAM [Leadership](/leadership) to respond to the report, including reviewing and investigating the report and determining the appropriate response.
+Upon receiving a report, the Cascade STEAM Board of Directors will convene and assemble a team from Cascade STEAM [Leadership](leadership.md) to respond to the report, including reviewing and investigating the report and determining the appropriate response.
 
 ### Report Response
 
@@ -87,4 +87,4 @@ Any legal matter will be immediately reported to the proper authorities.
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).

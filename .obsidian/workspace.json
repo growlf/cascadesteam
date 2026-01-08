@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -197,25 +197,35 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
-    "leadership.md",
+    "template_page.md",
+    "About/outreach.md",
+    "Community Groups/open-source.md",
+    "Community Groups/cyber.md",
+    "About/conduct.md",
+    "About/partners.md",
+    "About/index.md",
+    "Get Involved/leadership.md",
+    "About/organization.md",
+    "About",
+    "Community Projects/index.md",
+    "Community Projects/mentorship.md",
+    "Community Projects/helpdesk.md",
+    "Community Projects/digital-navigators.md",
+    "Community Groups/data-engineering.md",
+    "Community Groups/citizen-science.md",
+    "Get Involved/index.md",
+    "Get Involved",
+    "Community Groups/index.md",
+    "Community Projects",
     "index.md",
-    "helpdesk.md",
-    "about.md",
+    "Community Groups",
     "README.md",
     "news/index.md",
     "news/whatcom-stem-changes-name-to-cascade-steam.md",
     "news/whatcom-stem-announces-formation.md",
-    "mentorship.md",
-    "service-corps.md",
-    "community-projects.md",
-    "hack-night.md",
+    "Community Projects/service-corps.md",
+    "Community Projects/hack-night.md",
     "news/cascade-steam-community-update-may-2025.md",
-    "news/cascade-steam-community-update-june-2025.md",
-    "news/cascade-steam-community-update-july-2025.md",
-    "news/cascade-steam-community-update-april-2025.md",
-    "news/2025-04-16.md",
-    "news/2023-10-11.md",
-    "news/2023-05-09.md",
-    "linuxfest-northwest.md"
+    "news/cascade-steam-community-update-june-2025.md"
   ]
 }

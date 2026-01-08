@@ -16,13 +16,13 @@ permalink: /community-projects
 
 <br>
 
-[Home](/) | [About](/about) | [Community Groups](/community-groups) | [Community Projects](/community-projects) | [Get Involved](/get-involved) | [Donate](/donate)
+[Home](/) | [About](About/index.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Get Involved](Get%20Involved/index.md) | [Donate](donate.md)
 
 <br>
 
 # Community Projects
 
-Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](/community-groups) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
+Cascade STEAM Community Projects are organized collaborative efforts for community impact and social good. We welcome all people of all ages to participate. Organization and discussion occurs at our [Community Group](Community%20Groups/index.md) meetings and on our [Community Hub](http://hub.cascadesteam.org). See our [Meetup Page](https://meetup.com/cascadesteam) for scheduled events.
 
 ## Digital Navigators
 
@@ -30,7 +30,7 @@ FREE Community Tech Support is now available from Cascade STEAM via our [Digital
 
 ## Educational Robotics
 
-[Educational Robotics](/educational-robotics) is a collaboration of the Cascade STEAM [Engineering Community Group](https://cascadesteam.org/engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
+[Educational Robotics](educational-robotics.md) is a collaboration of the Cascade STEAM [Engineering Community Group](https://cascadesteam.org/engineering) and [Bellingham Public Schools](https://www.bellinghamschools.org) to support their [VEX Robotics Program](https://www.vexrobotics.com/). With VEX Robotics, hundreds of students throughout the district participate in a range of casual to globally-competitive robotics development, including mechanical engineering, fabrication, assembly, software development, technical writing, and project management. We help students learn robotics and host local robotics events.
 
 ## Hack Night
 
@@ -54,8 +54,8 @@ Cascade STEAM [Service Corps](https://cascadesteam.org/service-corps) is a techn
 
 ## Stormwater Monitoring
 
-The [Citizen Science Community Group](/citizen-science) helps in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers are working to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute as we work together as a team to resolve challenges.
+The [Citizen Science Community Group](citizen-science.md) helps in organizing support for [RE Sources](https://re-sources.org) and their [Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/) to help protect Bellingham Bay. Organizers are working to create science, technology, and administrative projects and subprojects for community members to easily plug into and contribute as we work together as a team to resolve challenges.
 
 ## Contact Us
 
-Interested to [get involved](/get-involved)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
+Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://discord.cascadesteam.org).
