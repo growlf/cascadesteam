@@ -6,8 +6,6 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Component.PageTitle(),
-    Component.Search(),
-    Component.Breadcrumbs(),
   ],
   afterBody: [],
   footer: Component.Footer({
@@ -22,9 +20,11 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.Breadcrumbs(),
     Component.TagList(),
   ],
   left: [
+    Component.Search(),
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
