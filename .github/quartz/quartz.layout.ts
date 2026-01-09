@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import Logo from "./Logo"
+import Logo from "./Logo.tsx"
 
 // See https://quartz.jzhao.xyz/layout for more information
 
