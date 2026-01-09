@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import HeaderImage from "./components/HeaderImage"
+import Logo from "./Logo"
 
 // See https://quartz.jzhao.xyz/layout for more information
 
@@ -8,7 +8,7 @@ import HeaderImage from "./components/HeaderImage"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    HeaderImage(),
+    Logo(),
   ],
   afterBody: [],
   footer: Component.Footer({
