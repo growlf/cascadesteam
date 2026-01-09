@@ -1,6 +1,18 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import Logo from "./Logo.tsx"
+
+
+// instead of "import Logo from "./Logo.tsx" -
+// Define the component right here in the layout file
+const Logo = () => {
+  return (
+    <div class="logo">
+        <a href="/">
+          <img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">        
+        </a>
+    </div>
+  )
+}
 
 // See https://quartz.jzhao.xyz/layout for more information
 
@@ -8,7 +20,7 @@ import Logo from "./Logo.tsx"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Logo(),
+    Logo,
   ],
   afterBody: [],
   footer: Component.Footer({
