@@ -8,7 +8,7 @@ import HeaderImage from "./components/HeaderImage"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-//    HeaderImage(),
+    HeaderImage(),
   ],
   afterBody: [],
   footer: Component.Footer({
