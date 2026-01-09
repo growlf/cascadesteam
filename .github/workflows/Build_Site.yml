@@ -47,14 +47,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+
+      - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # Use this to force it to the specific branch, e.g., 'main' or the current one
+          ref: ${{ github.ref }}   
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
         with:
           enablement: true
-
 
       - name: Build
         uses: konstfish/quartz-build-action@v6
