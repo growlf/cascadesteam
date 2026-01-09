@@ -38,7 +38,7 @@ permissions:
 # Concurrency ensures that only one workflow run is active at a time for the same group
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 # Define the jobs for the workflow
 jobs:
@@ -66,6 +66,7 @@ jobs:
           quartz_layout: .github/quartz/quartz.layout.ts
           quartz_icon: .github/quartz/icon.png
           quartz_custom_css: .github/quartz/custom.scss
+          quartz_banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
           #quartz_banner: banner.png
           # See https://github.com/marketplace/actions/build-quartz-for-github-pages
 
