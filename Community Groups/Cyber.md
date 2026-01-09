@@ -17,24 +17,22 @@ Join us as we continue to work on organizing our group and building a local cybe
 
 Mark your calendars and watch this space as we confirm meeting locations. Consider creating a [Meetup account](https://www.meetup.com/cascadesteam) and following Cascade STEAM, to receive email notices about our events. 
 
-### <span style="color:rgb(212,99,41);">January (Meeting #7)</span>
-Thursday January 8, 2026 @ 5:20pm-7:00pm<br>
-<span style="color:rgb(52,176,191);font-weight:bold;">Location:</span> [Stemma Brewing West](https://www.stemmabrewing.com/general-clean), [500 Carolina Street](https://maps.app.goo.gl/YwPxnBgoXR7mLTRR6)
+### January (Meeting #7)
+Thursday January 8, 2026 @ 5:20pm-7:00pm
+**Location:** [Stemma Brewing West](https://www.stemmabrewing.com/general-clean), [500 Carolina Street](https://maps.app.goo.gl/YwPxnBgoXR7mLTRR6)
+**Featured Guests:**
+- **Kayne McGladrey**, Virtual CISO, Executive Cybersecurity Advisor
+- **Mary Thomas**, IT Director for City of Mount Vernon, WA
+- **Shay Colson**, Managing partner, Intentional Cybersecurity
 
-**<span style="color:rgb(52,176,191);">Featured Guests:</span>**
-- **Kayne McGladrey, Virtual CISO, Executive Cybersecurity Advisor**
-- **Mary Thomas, IT Director for City of Mount Vernon, WA**
-- **Shay Colson, Managing partner, Intentional Cybersecurity**
-
-<span style="color:rgb(52,176,191);font-weight:bold;">Panel Discussion Topic</span>: What cybersecurity professionals should expect in 2026
-
-**<span style="color:rgb(52,176,191);">Timeline:</span>**<br>
-5:20 pm - Doors open (perhaps arrive a little earlier if you might want to order food/drinks)<br>
-5:45 pm - Meeting begins<br>
+**Panel Discussion Topic:** What cybersecurity professionals should expect in 2026
+**Timeline:**
+5:20 pm - Doors open (perhaps arrive a little earlier if you might want to order food/drinks)
+5:45 pm - Meeting begins
 6:45 pm - Wrap-up
+6:30-7:00 - Wrap up and networking/social time
 
-[* Career Spotlight & Presentation: Chris Ranallo, Director of IT for Lummi Nation. He will be talking about how they built a cybersecurity and IT program, and available to discuss issues around public sector IT and cybersecurity. Few of us have had the need (opportunity?) to build a program from the ground up, so this should be an interesting perspective!<br>]: #
-[6:30-7:00 - Wrap up and networking/social time]: #
+Career Spotlight & Presentation: Chris Ranallo, Director of IT for Lummi Nation. He will be talking about how they built a cybersecurity and IT program, and available to discuss issues around public sector IT and cybersecurity. Few of us have had the need (opportunity?) to build a program from the ground up, so this should be an interesting perspective!
 
 
 ## Past Meetings

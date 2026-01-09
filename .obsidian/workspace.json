@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Community Groups/Cyber.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cyber"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "README.md",
     "index.md",
     "News/index.md",
     "Get Involved/index.md",
@@ -221,7 +222,6 @@
     "About/Donate.md",
     "About/Code of Conduct.md",
     "About/index.md",
-    "README.md",
     "assets/_templates",
     "assets/template_page.md",
     "About",
