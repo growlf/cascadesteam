@@ -6,11 +6,7 @@ export default (() => {
     return (
       <div class="custom-logo">
         <a href="/">
-          <img 
-            src="https://https://growlf.github.io/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svgexample.com/logo.png" // Replace with your image URL
-            alt="Logo" 
-            style={{ width: "150px", height: "auto" }} 
-          />
+          <img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">        
         </a>
       </div>
     )
