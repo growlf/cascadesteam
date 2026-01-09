@@ -38,7 +38,7 @@ permissions:
 # Concurrency ensures that only one workflow run is active at a time for the same group
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 # Define the jobs for the workflow
 jobs:
