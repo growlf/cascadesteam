@@ -4,15 +4,29 @@ import * as Component from "./quartz/components"
 
 // instead of "import Logo from "./Logo.tsx" -
 // Define the component right here in the layout file
-const Logo = () => {
-  return (
-    <div class="logo">
+// export const Logo = () => {
+//   return (
+//     <div class="logo">
+//         <a href="/">
+//           <img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">        
+//         </a>
+//     </div>
+//   )
+// }
+export default (() => {
+  function Logo() {
+    return (
+      <div class="custom-logo">
         <a href="/">
           <img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">        
         </a>
-    </div>
-  )
-}
+      </div>
+    )
+  }
+  return Logo
+}) satisfies QuartzComponentConstructor
+
+
 
 // See https://quartz.jzhao.xyz/layout for more information
 
