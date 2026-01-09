@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-//import HeaderImage from "./quartz/components/HeaderImage"
+import HeaderImage from "./components/HeaderImage"
 
 // See https://quartz.jzhao.xyz/layout for more information
 
