@@ -1,8 +1,8 @@
 {
-  "lightStyle": "minimal-light",
+  "lightStyle": "minimal-light-contrast",
   "darkStyle": "minimal-dark",
-  "lightScheme": "minimal-default-light",
-  "darkScheme": "minimal-default-dark",
+  "lightScheme": "minimal-ayu-light",
+  "darkScheme": "minimal-ayu-dark",
   "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,

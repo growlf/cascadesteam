@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/index.md",
+                "file": "About/Partners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Partners"
             }
           }
         ]
@@ -199,20 +199,25 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
-    "News/2023-05-09.md",
-    "News/index.md",
-    "News/2025-06-01.md",
-    "News/2025-07-01.md",
+    "About/Outreach.md",
+    "About/Organization.md",
+    "About/Leadership.md",
+    "About/Donate.md",
+    "About/Code of Conduct.md",
+    "About/index.md",
     "index.md",
     "assets/_templates/Page.md",
-    "assets/_templates/template_page.md",
     "assets/_templates/News.md",
+    "Get Involved/index.md",
+    "News/index.md",
+    "News/2023-05-09.md",
+    "News/2025-06-01.md",
+    "News/2025-07-01.md",
+    "assets/_templates/template_page.md",
     "News/2023-10-11.md",
     "News/2025-04-01.md",
     "News/2025-05-10.md",
-    "Get Involved/index.md",
     "assets/index.md",
-    "About/index.md",
     "Community Groups/index.md",
     "Community Projects/index.md",
     "Community Projects/Service Corps.md",
@@ -220,11 +225,6 @@
     "Community Groups/Citizen Science.md",
     "Community Projects/Mentorship.md",
     "Community Projects/LinuxFest NorthWest.md",
-    "Community Projects/Helpdesk.md",
-    "Community Projects/Hack Night.md",
-    "Community Projects/Educational Robotics.md",
-    "Community Projects/Digital Navigators.md",
-    "News/2025-04-16.md",
     "assets/_templates",
     "About",
     "Get Involved",
