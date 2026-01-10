@@ -31,7 +31,7 @@ const Footer: Component.QuartzComponent = () => {
   return jsx("div", {
     class: "custom-footer",
     children: jsx("p", {
-      children: "© 2024 Cascade STEAM. All rights reserved."
+      children: "© 2023 Cascade STEAM. All rights reserved."
     })
   })
 }
