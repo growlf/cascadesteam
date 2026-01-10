@@ -40,7 +40,7 @@ const Logo: Component.QuartzComponent = () => {
         src: "/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg",
         alt: "Site Logo",
         width: "600px", 
-        height: "178"
+        height: "178px"
       })
     })
   })
