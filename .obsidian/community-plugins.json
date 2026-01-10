@@ -1,5 +1,9 @@
 [
   "templater-obsidian",
   "folder-notes",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "dataview-publisher",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]
