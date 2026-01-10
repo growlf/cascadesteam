@@ -16,7 +16,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./quartz/compo
 
 export default (() => {
   function Logo() {
-    return (
+    return (`
       <div class="custom-logo">
         <a href="/">
           <img 
@@ -26,7 +26,7 @@ export default (() => {
           />
         </a>
       </div>
-    )
+    `)
   }
   return Logo
 }) satisfies QuartzComponentConstructor
