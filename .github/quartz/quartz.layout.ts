@@ -28,10 +28,6 @@ Logo.css = `
   padding: 1rem;
   text-align: center;
 }
-// .logo img {
-//   max-width: 200px;
-//   height: auto;
-// }
 `
 
 // components shared across all pages
