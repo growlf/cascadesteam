@@ -35,9 +35,9 @@ const Logo: Component.QuartzComponent = () => {
   return jsx("div", {
     class: "logo",
     children: jsx("a", {
-      href: "/",
+      href: "/cascadesteam/",
       children: jsx("img", {
-        src: "/static/logo.png",
+        src: "/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg",
         alt: "Site Logo"
       })
     })
