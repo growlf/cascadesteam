@@ -10,12 +10,17 @@ import * as Component from "./quartz/components"
 //         </a>
 //     </div>
 const Logo: Component.QuartzComponent = () => {
-  return (<img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">)
+  const html = `
+    <div class="logo">
+      <a href="/">
+        <img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">
+      </a>
+    </div>
+  `
+  return { __html: html } as any
 }
-
 // Add display name for debugging (optional but recommended)
 Logo.displayName = "Logo"
-
 // If you need styling, you can also define it inline or use Quartz's existing classes
 Logo.css = `
 .logo {
@@ -27,8 +32,6 @@ Logo.css = `
   height: auto;
 }
 `
-
-
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
