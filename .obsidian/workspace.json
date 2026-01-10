@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "News/index.md",
+                "file": "Community Groups/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,15 +198,17 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "Community Groups/Artificial Intelligence.md",
+    "Community Groups/index.md",
+    "Community Groups/Citizen Science.md",
+    "index.md",
+    "News/index.md",
     "News/2025-07-01.md",
     "News/2025-06-01.md",
     "News/2025-05-10.md",
     "News/2025-04-01.md",
     "News/2023-10-11.md",
     "News/2023-05-09.md",
-    "News/index.md",
-    "index.md",
-    "Community Groups/Citizen Science.md",
     "Community Projects/Service Corps.md",
     "Community Projects/Mentorship.md",
     "Community Projects/LinuxFest NorthWest.md",
@@ -222,8 +224,6 @@
     "Community Groups/Cyber.md",
     "README.md",
     "Community Groups/Open Source.md",
-    "Community Groups/Engineering.md",
-    "Community Groups/Data Engineering.md",
     "assets/_templates",
     "About",
     "Get Involved",

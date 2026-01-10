@@ -9,6 +9,7 @@ Cascade STEAM Community Groups convene aspiring, current, and retired profession
 Community Groups are made possible through the commitment of [volunteer organizers](Leadership.md) and open collaboration of [Partners](Partners.md). Scheduled events can be found on the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam) and discussion at the [Cascade STEAM Community Hub (Discord)](http://hub.cascadesteam.org).
 
 Community Groups include:
+- **[[Artificial Intelligence]]**:  AI learning and AI-related community projects
 - **[Citizen Science](Citizen%20Science.md)**: science, in particular life sciences
 - **[Cyber](Cyber.md)**: cybersecurity
 - **[Data Engineering](Data%20Engineering.md)**: data engineering, including data storage and access, artificial intelligence (AI), machine learning (ML), and large language models (LLMs)
@@ -19,6 +20,7 @@ We also collaborate with other local community groups, including:
 - **[Bellingham Codes](https://bellingham.codes)**: software development ([Meetup](https://meetup.com/bellinghamcodes))
 - **[Bellingham Linux Users Group](https://blug.org)**: Linux
 - **[Bellingham Tableau User Group](https://usergroups.tableau.com/bellingham-tableau-user-group/)**: Tableau Software and related data analytics topics
+- **[The RaspberryPi Club](https://www.raspberrypiclub.org/)**: Bellingham Technical College technology students sharing what they know
 
 ## Are you interested to start a new community group?
 
