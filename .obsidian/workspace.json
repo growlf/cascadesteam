@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/_templates/Page.md",
+                "file": "News/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Page"
+              "title": "index"
             }
           }
         ]
@@ -199,16 +199,17 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
-    "assets/_templates/News.md",
-    "assets/_templates/Page.md",
-    "News/index.md",
     "News/2023-05-09.md",
+    "News/index.md",
+    "News/2025-06-01.md",
+    "News/2025-07-01.md",
+    "index.md",
+    "assets/_templates/Page.md",
+    "assets/_templates/template_page.md",
+    "assets/_templates/News.md",
     "News/2023-10-11.md",
     "News/2025-04-01.md",
     "News/2025-05-10.md",
-    "News/2025-07-01.md",
-    "News/2025-06-01.md",
-    "index.md",
     "Get Involved/index.md",
     "assets/index.md",
     "About/index.md",
@@ -223,7 +224,6 @@
     "Community Projects/Hack Night.md",
     "Community Projects/Educational Robotics.md",
     "Community Projects/Digital Navigators.md",
-    "assets/_templates/template_page.md",
     "News/2025-04-16.md",
     "assets/_templates",
     "About",
