@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "News/index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 299.5
   },
   "right": {
     "id": "ec9a81a540489a0b",
@@ -192,15 +192,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
-    "index.md",
-    "News/index.md",
+    "News/2025-07-01.md",
+    "News/2025-06-01.md",
+    "News/2025-05-10.md",
+    "News/2025-04-01.md",
     "News/2023-10-11.md",
     "News/2023-05-09.md",
+    "News/index.md",
+    "index.md",
     "Community Groups/Citizen Science.md",
     "Community Projects/Service Corps.md",
     "Community Projects/Mentorship.md",
@@ -211,11 +216,7 @@
     "Community Projects/Digital Navigators.md",
     "Community Projects/index.md",
     "Get Involved/index.md",
-    "News/2025-06-01.md",
-    "News/2025-07-01.md",
     "assets/_templates/News.md",
-    "News/2025-04-01.md",
-    "News/2025-05-10.md",
     "assets/_templates/template_page.md",
     "News/2025-04-16.md",
     "Community Groups/Cyber.md",
