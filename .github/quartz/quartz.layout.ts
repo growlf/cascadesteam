@@ -10,13 +10,13 @@ import * as Component from "./quartz/components"
 //         </a>
 //     </div>
 const Logo: Component.QuartzComponent = () => {
-  return (
+  return (`
     <div class="logo">
       <a href="/">
         <img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">
       </a>
     </div>
-  )
+  `)
 }
 
 // Add display name for debugging (optional but recommended)
