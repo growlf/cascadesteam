@@ -35,14 +35,14 @@ const Logo: QuartzComponentConstructor = (() => {
     // The image should be in your static folder (e.g., `static/my-logo.png`)
     const logoSrc = "/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg";
 
-    return ("
+    return (
       <div class='logo-container'>
         <img src='{logoSrc}' alt='Cascade STEAM logo' class='logo-img' />
         <span class='logo-text'>{props.cfg.pageTitle}</span>
         {/* You can also add styles directly to the component as a property */}
         <style>{logoStyle}</style>
       </div>
-    ");
+    );
   }
   
   // Return the component function wrapped in a constructor pattern
