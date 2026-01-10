@@ -3,31 +3,6 @@ import * as Component from "./quartz/components"
 
 // instead of "import Logo from "./Logo.tsx" -
 // Define the component right here in the layout file
-// const Logo: Component.QuartzComponent = () => {
-//   const html = `
-//     <div class="logo">
-//       <a href="/">
-//         <img src="/cascadesteam/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178">
-//       </a>
-//     </div>
-//   `
-//   return { __html: html } as any
-// }
-// // Add display name for debugging (optional but recommended)
-// Logo.displayName = "Logo"
-// // If you need styling, you can also define it inline or use Quartz's existing classes
-// Logo.css = `
-// .logo {
-//   padding: 1rem;
-//   text-align: center;
-// }
-// .logo img {
-//   max-width: 200px;
-//   height: auto;
-// }
-// `
-
-
 import { jsx } from "preact/jsx-runtime"
 
 // Define your Logo component using jsx() instead of JSX syntax
@@ -53,26 +28,11 @@ Logo.css = `
   padding: 1rem;
   text-align: center;
 }
-.logo img {
-  max-width: 200px;
-  height: auto;
-}
+// .logo img {
+//   max-width: 200px;
+//   height: auto;
+// }
 `
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
