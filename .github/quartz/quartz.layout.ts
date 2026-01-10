@@ -77,7 +77,7 @@ export default (() => {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Logo(),
+    Logo,
   ],
   afterBody: [],
   footer: Component.Footer({
