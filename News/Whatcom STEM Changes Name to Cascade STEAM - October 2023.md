@@ -1,27 +1,7 @@
 ---
 layout: page
 title: "Whatcom STEM Changes Name to Cascade STEAM"
-permalink: /news/whatcom-stem-changes-name-to-cascade-steam
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [Organization](Organization.md) | [Leadership](Leadership.md) | [Partners](Partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](Mentorship.md)
-
-<br>
-
-# Cascade STEAM
-
 ## October 11, 2023: Whatcom STEM Changes Name to Cascade STEAM
 We are proud to announce the formation of Cascade STEAM, a new Washington nonprofit and future 501(c)(3) nonprofit organization based in Bellingham, WA.
 

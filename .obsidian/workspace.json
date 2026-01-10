@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "News/2023-05-09.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2023-05-09"
             }
           }
         ]
@@ -197,6 +197,15 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "News/2023-10-11.md",
+    "News/2025-04-16.md",
+    "News/Whatcom STEM Changes Name to Cascade STEAM - October 2023.md",
+    "News/Whatcom STEM Announces Formation - May 2023.md",
+    "News/Cascade STEAM Community Update - May 2025.md",
+    "News/Cascade STEAM Community Update - June 2025.md",
+    "News/Cascade STEAM Community Update - July 2025.md",
+    "News/Cascade STEAM Community Update - April 2025.md",
+    "README.md",
     "index.md",
     "News/index.md",
     "Get Involved/index.md",
@@ -214,16 +223,7 @@
     "Community Groups/Cyber.md",
     "Community Groups/Citizen Science.md",
     "Community Groups/index.md",
-    "About/Partners.md",
-    "About/Outreach.md",
-    "About/Organization.md",
-    "About/Leadership.md",
-    "About/Donate.md",
-    "About/Code of Conduct.md",
-    "About/index.md",
-    "README.md",
     "assets/_templates",
-    "assets/template_page.md",
     "About",
     "Get Involved",
     "Community Projects",

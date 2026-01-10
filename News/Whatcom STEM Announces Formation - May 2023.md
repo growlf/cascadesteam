@@ -1,27 +1,7 @@
 ---
 layout: page
 title: "Whatcom STEM Announces Formation"
-permalink: /news/whatcom-stem-announces-formation
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [Organization](Organization.md) | [Leadership](Leadership.md) | [Partners](Partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](Mentorship.md)
-
-<br>
-
-# Whatcom STEM
-
 ## May 9, 2023: Whatcom STEM Announces Formation
 
 Whatcom STEM is forming as a new 501(c)(3) nonprofit organization.

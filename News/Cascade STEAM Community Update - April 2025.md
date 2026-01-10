@@ -1,32 +1,12 @@
 ---
 layout: page
 title: "Cascade STEAM Community Update - April 2025"
-permalink: /news/cascade-steam-community-update-april-2025
 ---
-<style>
-  .header {
-	display: none;
-  }
-  .footer {
-	display: none;
-  }
-</style>
-
-<p align="center"><img src="/assets/images/Cascade_STEAM_horizontal_logo_primary.svg" width="600" height="178" /></p>
-
-<br>
-
-[Home](/) | [Organization](Organization.md) | [Leadership](Leadership.md) | [Partners](Partners.md) | [Get Involved](Get%20Involved/index.md) | [Donate](Donate.md) | [Community Groups](Community%20Groups/index.md) | [Community Projects](Community%20Projects/index.md) | [Mentorship](Mentorship.md)
-
-<br>
-
-# Cascade STEAM Community Update - April 2025
-
 ## Summary
 
 * Cascade STEAM is launched\!  
 * Community Groups are launched\!  
-* Community Projects are launched\! Join the Citizen Science Community Group to participate in the Stormwater Monitoring Community Project.  
+* Community Projects are launched\! Join the Citizen Science Community Group to participate in the Storm-water Monitoring Community Project.  
 * Mentorship is launched\! Register to participate in the Summer Cohort.  
 * Bellingham Linux Users Group event on April 16th  
 * Cascade STEAM Citizen Science event on April 17th  
