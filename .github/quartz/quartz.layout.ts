@@ -1,11 +1,10 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { jsx } from "preact/jsx-runtime"
 
 // instead of "import Logo from "./Logo.tsx" -
 // Define the component right here in the layout file
-import { jsx } from "preact/jsx-runtime"
-
-// Define your Logo component using jsx() instead of JSX syntax
+// using jsx() instead of JSX syntax
 const Logo: Component.QuartzComponent = () => {
   return jsx("div", {
     class: "logo",
@@ -20,9 +19,7 @@ const Logo: Component.QuartzComponent = () => {
     })
   })
 }
-
 Logo.displayName = "Logo"
-
 Logo.css = `
 .logo {
   padding: 1rem;
@@ -30,13 +27,33 @@ Logo.css = `
 }
 `
 
+const Footer: Component.QuartzComponent = () => {
+  return jsx("div", {
+    class: "custom-footer",
+    children: jsx("p", {
+      children: "© 2024 Cascade STEAM. All rights reserved."
+    })
+  })
+}
+Footer.displayName = "CustomFooter"
+Footer.css = `
+.custom-footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--qt-color-darkgray);
+}
+`
+
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
     Logo,
   ],
-  afterBody: [],
+  afterBody: [
+    Footer,
+  ],
   footer: Component.Footer({
     links: {
       "GitHub": "https://github.com/growlf/cascadesteam",
