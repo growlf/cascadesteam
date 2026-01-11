@@ -212,12 +212,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Footer,
   ],
-  footer: Component.Footer({
-    // links: {
-    //   "GitHub": "https://github.com/growlf/cascadesteam",
-    // },
+  footer: [
     Footer,
-  }),
+  ],
 }
 
 // components for pages that display a single page (e.g. a single note)
