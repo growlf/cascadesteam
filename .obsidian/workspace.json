@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About/Partners.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Partners"
+              "title": "index"
             }
           }
         ]
@@ -199,13 +199,14 @@
   },
   "active": "1938a91b149ba902",
   "lastOpenFiles": [
+    "index.md",
+    "About/Partners.md",
     "About/Outreach.md",
     "About/Organization.md",
     "About/Leadership.md",
     "About/Donate.md",
     "About/Code of Conduct.md",
     "About/index.md",
-    "index.md",
     "assets/_templates/Page.md",
     "assets/_templates/News.md",
     "Get Involved/index.md",
@@ -224,7 +225,6 @@
     "Community Groups/Artificial Intelligence.md",
     "Community Groups/Citizen Science.md",
     "Community Projects/Mentorship.md",
-    "Community Projects/LinuxFest NorthWest.md",
     "assets/_templates",
     "About",
     "Get Involved",
