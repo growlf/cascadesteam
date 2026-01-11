@@ -11,14 +11,14 @@
             "id": "e40f386641ea2bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Events/index.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Community Groups/Artificial Intelligence.md",
+                "bFile": "Community Groups/Artificial Intelligence.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: Artificial Intelligence  (Working Tree)"
             }
           }
         ]
@@ -197,10 +197,13 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "913e242a46932458",
+  "active": "e40f386641ea2bae",
   "lastOpenFiles": [
-    "index.md",
+    "Get Involved/Donate.md",
+    "About/index.md",
+    "Get Involved/index.md",
     "Events/index.md",
+    "index.md",
     "Events",
     "Community Projects/Educational Robotics.md",
     "Community Groups/Artificial Intelligence.md",
@@ -212,7 +215,6 @@
     "News/2023-10-11.md",
     "News/2023-05-09.md",
     "News/index.md",
-    "Get Involved/index.md",
     "Community Projects/Service Corps.md",
     "Community Projects/Mentorship.md",
     "Community Projects/LinuxFest NorthWest.md",
@@ -224,8 +226,6 @@
     "Community Groups/Engineering.md",
     "Community Groups/Data Engineering.md",
     "Community Groups/Cyber.md",
-    "Community Groups/index.md",
-    "assets/index.md",
     "assets/_templates",
     "About",
     "Get Involved",
