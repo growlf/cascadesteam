@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9400bf42b2c12304",
+        "id": "6eb409760c1bb8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "8150297d95bf51d7",
+            "id": "898b8e469f9e457b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Community Groups/Artificial Intelligence.md",
-                "bFile": "Community Groups/Artificial Intelligence.md",
-                "aRef": ""
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Artificial Intelligence  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -197,7 +197,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "8150297d95bf51d7",
+  "active": "898b8e469f9e457b",
   "lastOpenFiles": [
     "index.md",
     "README.md",
