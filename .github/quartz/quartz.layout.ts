@@ -27,23 +27,6 @@ Logo.css = `
 }
 `
 
-// const Footer: Component.QuartzComponent = () => {
-//   return jsx("div", {
-//     class: "custom-footer",
-//     children: jsx("p", {
-//       children: "© 2023 Cascade STEAM. All rights reserved."
-//     })
-//   })
-// }
-// Footer.displayName = "CustomFooter"
-// Footer.css = `
-// .custom-footer {
-//   text-align: center;
-//   font-size: 0.9rem;
-//   color: var(--qt-color-darkgray);
-// }
-// `
-
 const Footer: Component.QuartzComponent = () => {
   return jsx("footer", {
     class: "custom-footer",
@@ -82,9 +65,7 @@ const Footer: Component.QuartzComponent = () => {
     ]
   })
 }
-
 Footer.displayName = "CustomFooter"
-
 Footer.css = `
 .custom-footer {
   margin-top: 2rem;
@@ -136,9 +117,10 @@ export const sharedPageComponents: SharedLayout = {
     Logo,
   ],
   afterBody: [
-    Footer,
+
   ],
   footer: Component.Footer({
+    Footer,
     links: {
       "GitHub": "https://github.com/growlf/cascadesteam",
     },
