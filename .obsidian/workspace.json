@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "750205f983b2f387",
+        "id": "9400bf42b2c12304",
         "type": "tabs",
         "children": [
           {
-            "id": "1938a91b149ba902",
+            "id": "8150297d95bf51d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "Community Groups/Artificial Intelligence.md",
+                "bFile": "Community Groups/Artificial Intelligence.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: Artificial Intelligence  (Working Tree)"
             }
           }
         ]
@@ -197,9 +197,10 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "1938a91b149ba902",
+  "active": "8150297d95bf51d7",
   "lastOpenFiles": [
     "index.md",
+    "README.md",
     "About/Partners.md",
     "About/Outreach.md",
     "About/Organization.md",
@@ -224,7 +225,6 @@
     "Community Projects/Service Corps.md",
     "Community Groups/Artificial Intelligence.md",
     "Community Groups/Citizen Science.md",
-    "Community Projects/Mentorship.md",
     "assets/_templates",
     "About",
     "Get Involved",
