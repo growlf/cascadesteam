@@ -212,7 +212,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     // Footer,
   ],
-  footer: Footer,
+  footer: Footer;
   }),
 }
 
