@@ -216,9 +216,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [
     Logo,
   ],
-  afterBody: [
-    // Footer,
-  ],
+  afterBody: [],
   footer: Footer,
 }
 
