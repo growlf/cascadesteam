@@ -210,7 +210,7 @@ export const sharedPageComponents: SharedLayout = {
     Logo,
   ],
   afterBody: [
-    Footer,
+    // Footer,
   ],
   footer: [
     Footer,
