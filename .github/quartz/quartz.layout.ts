@@ -74,7 +74,7 @@ const Footer: Component.QuartzComponent = () => {
                   }),
                 ]
               }),
-              jsx("p", { children: "Bellingham, Washington, USA" }),
+              jsx("p", { children: "104 W Magnolia St \#2551, Bellingham, WA 98225 USA" }),
             ]
           }),
           
@@ -135,7 +135,7 @@ const Footer: Component.QuartzComponent = () => {
       // Bottom Copyright
       jsx("div", {
         class: "footer-bottom",
-        children: jsx("p", { children: "© 2026 Cascade STEAM. All rights reserved." })
+        children: jsx("p", { children: "Built with Obsidian and Quartz | © 2026 Cascade STEAM. All rights reserved." })
       })
     ]
   })
