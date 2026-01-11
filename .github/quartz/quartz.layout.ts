@@ -27,22 +27,106 @@ Logo.css = `
 }
 `
 
+// const Footer: Component.QuartzComponent = () => {
+//   return jsx("div", {
+//     class: "custom-footer",
+//     children: jsx("p", {
+//       children: "© 2023 Cascade STEAM. All rights reserved."
+//     })
+//   })
+// }
+// Footer.displayName = "CustomFooter"
+// Footer.css = `
+// .custom-footer {
+//   text-align: center;
+//   font-size: 0.9rem;
+//   color: var(--qt-color-darkgray);
+// }
+// `
+
 const Footer: Component.QuartzComponent = () => {
-  return jsx("div", {
+  return jsx("footer", {
     class: "custom-footer",
-    children: jsx("p", {
-      children: "© 2023 Cascade STEAM. All rights reserved."
-    })
+    children: [
+      // Contact Section
+      jsx("div", {
+        class: "footer-section",
+        children: [
+          jsx("h4", { children: "Contact Us" }),
+          jsx("p", { children: "Email: hello@cascadesteam.org" }),
+          jsx("p", { children: "Location: Washington, USA" }),
+        ]
+      }),
+      
+      // Social Media Links
+      jsx("div", {
+        class: "footer-section",
+        children: [
+          jsx("h4", { children: "Follow Us" }),
+          jsx("div", {
+            class: "social-links",
+            children: [
+              jsx("a", { href: "https://github.com/your-org", children: "GitHub" }),
+              jsx("a", { href: "https://twitter.com/your-handle", children: "Twitter" }),
+              jsx("a", { href: "https://linkedin.com/company/your-page", children: "LinkedIn" }),
+            ]
+          })
+        ]
+      }),
+
+      // Copyright Section
+      jsx("div", {
+        class: "footer-bottom",
+        children: jsx("p", { children: "© 2026 Cascade STEAM. All rights reserved." })
+      })
+    ]
   })
 }
+
 Footer.displayName = "CustomFooter"
+
 Footer.css = `
 .custom-footer {
+  margin-top: 2rem;
+  padding: 2rem 1rem;
+  border-top: 1px solid var(--lightgray);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
   text-align: center;
-  font-size: 0.9rem;
-  color: var(--qt-color-darkgray);
 }
-`
+
+.footer-section h4 {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: var(--dark);
+}
+
+.footer-section p, .social-links a {
+  font-size: 0.9rem;
+  color: var(--gray);
+  text-decoration: none;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.social-links a:hover {
+  color: var(--secondary);
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  margin-top: 1rem;
+  border-top: 1px solid var(--lightgray);
+  padding-top: 1rem;
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+`;
 
 
 // components shared across all pages
