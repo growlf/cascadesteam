@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/index.md",
+                "file": "Events/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,10 +197,17 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "913e242a46932458",
+  "active": "288c79e589a8b194",
   "lastOpenFiles": [
-    "Projects/index.md",
+    "News/2025-07-01.md",
+    "News/2025-06-01.md",
+    "News/2025-05-10.md",
+    "News/2025-04-01.md",
+    "News/2023-10-11.md",
+    "News/2023-05-09.md",
     "Events/index.md",
+    "Groups/index.md",
+    "Projects/index.md",
     "README.md",
     "Get Involved/Donate.md",
     "About/index.md",
@@ -210,12 +217,6 @@
     "Projects/Educational Robotics.md",
     "Groups/Artificial Intelligence.md",
     "Groups/Citizen Science.md",
-    "News/2025-07-01.md",
-    "News/2025-06-01.md",
-    "News/2025-05-10.md",
-    "News/2025-04-01.md",
-    "News/2023-10-11.md",
-    "News/2023-05-09.md",
     "News/index.md",
     "Projects/Service Corps.md",
     "Projects/Mentorship.md",
@@ -225,7 +226,6 @@
     "Projects/Digital Navigators.md",
     "Groups/Open Source.md",
     "Groups/Engineering.md",
-    "Groups/Data Engineering.md",
     "assets/_templates",
     "About",
     "Get Involved",
