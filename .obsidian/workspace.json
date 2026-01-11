@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": false
+                "file": "About/index.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"

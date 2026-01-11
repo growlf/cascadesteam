@@ -23,7 +23,7 @@ We welcome all people of all ages to [get involved](Get%20Involved/index.md) to 
 
 Cascade STEAM is community supported - we are NOT a member organization with member dues. If you value our work and have the financial means to support us, then please donate\! Your donation will help fund our operations and programs. Any donation amount is appreciated. See our [Donate](Donate.md) page for additional details and payment options. Thank you for your support!<br>
 
-[>> DONATE NOW <<](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C)
 
 ## Contact Us
 
