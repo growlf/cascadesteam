@@ -60,6 +60,15 @@ const Footer: Component.QuartzComponent = () => {
                       jsx("path", { d: "M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z" })
                     ]})
                   }),
+                  // PayPal / Donations
+                  jsx("a", { 
+                    href: "https://www.paypal.com/donate?hosted_button_id=YOUR_ID", 
+                    ariaLabel: "Donate with PayPal",
+                    children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
+                      jsx("path", { d: "M7 17.5h1.9c2.8 0 4.5-1.4 5.1-4.1l1-5.1c.3-1.4-.2-2.3-1.5-2.3H7.5c-.6 0-1.1.4-1.2 1L4 18c-.1.5.3.9.8.9h2.2" }),
+                      jsx("path", { d: "M10.5 12.5h1.9c2.8 0 4.5-1.4 5.1-4.1l1-5.1c.3-1.4-.2-2.3-1.5-2.3H11c-.6 0-1.1.4-1.2 1" })
+                    ]})
+                  }),
                 ]
               }),
               jsx("p", { children: "Bellingham, Washington, USA" }),
@@ -96,15 +105,19 @@ const Footer: Component.QuartzComponent = () => {
                   jsx("a", { 
                     href: "http://hub.cascadesteam.org/", 
                     ariaLabel: "Discord",
-                    // children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
-                    //   jsx("path", { d: "M18 6a3 3 0 0 0-3-3H9a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V6z" }),
-                    //   jsx("circle", { cx: "9", cy: "12", r: "1" }),
-                    //   jsx("circle", { cx: "15", cy: "12", r: "1" })
-                    // ]})
                     children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
                         jsx("path", { d: "M18.89 4.34c-1.37-.63-2.83-1.09-4.36-1.34-.19.33-.4.78-.55 1.13-1.62-.23-3.23-.23-4.83 0-.15-.35-.37-.8-.56-1.13-1.53.25-3 .71-4.36 1.34-2.76 4.07-3.5 8.05-3.13 11.98 1.83 1.33 3.6 2.14 5.34 2.67.43-.57.81-1.19 1.14-1.84-.63-.23-1.23-.52-1.8-.86.15-.1.3-.22.44-.33 3.48 1.59 7.25 1.59 10.68 0 .15.1.29.22.44.33-.57.34-1.17.63-1.8.86.33.65.71 1.27 1.14 1.84 1.74-.53 3.52-1.34 5.34-2.67.46-4.54-.72-8.49-3.11-11.98zM8.05 13.9c-1.04 0-1.89-.95-1.89-2.11 0-1.16.83-2.11 1.89-2.11 1.06 0 1.92.95 1.9 2.11 0 1.16-.84 2.11-1.9 2.11zm7 0c-1.04 0-1.89-.95-1.89-2.11 0-1.16.83-2.11 1.9-2.11 1.05 0 1.92.95 1.9 2.11 0 1.16-.82 2.11-1.91 2.11z" })
                       ]})                   
-                  })
+                  }),
+                  // Calendar
+                  jsx("a", { 
+                    href: "/calendar", 
+                    ariaLabel: "Calendar",
+                    children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
+                      jsx("rect", { x: "3", y: "4", width: "18", height: "18", rx: "2" }),
+                      jsx("path", { d: "M16 2v4M8 2v4M3 10h18" })
+                    ]})
+                  }),
                 ]
               })
             ]
