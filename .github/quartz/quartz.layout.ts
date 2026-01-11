@@ -40,7 +40,7 @@ const Footer: Component.QuartzComponent = () => {
             class: "footer-section",
             children: [
               jsx("h4", { children: "Contact Us" }),
-              jsx("p", { children: "info@cascadesteam.org" }),
+              jsx("a", { href: "mailto:info@cascadesteam.org", children: "info@cascadesteam.org" }),
               jsx("p", { children: "Bellingham, Washington, USA" }),
             ]
           }),
