@@ -210,11 +210,13 @@ export const sharedPageComponents: SharedLayout = {
     Logo,
   ],
   afterBody: [
-    // Footer,
-  ],
-  footer: [
     Footer,
   ],
+  footer: Component.Footer({
+    links: {
+      "GitHub": "https://github.com/CascadeSTEAM/cascadesteam.github.io",
+    },
+  }),
 }
 
 // components for pages that display a single page (e.g. a single note)
