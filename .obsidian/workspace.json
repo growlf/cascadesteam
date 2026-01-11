@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb409760c1bb8d2",
+        "id": "4f10a1ecc0702a23",
         "type": "tabs",
         "children": [
           {
-            "id": "898b8e469f9e457b",
+            "id": "094447c02fa96c07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community Projects/Digital Navigators.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Navigators"
+              "title": "index"
             }
           }
         ]
@@ -197,34 +197,34 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "898b8e469f9e457b",
+  "active": "094447c02fa96c07",
   "lastOpenFiles": [
-    "About/Organization.md",
-    "About/Leadership.md",
-    "About/Donate.md",
-    "About/Code of Conduct.md",
-    "About/index.md",
     "index.md",
-    "README.md",
-    "About/Partners.md",
-    "About/Outreach.md",
-    "assets/_templates/Page.md",
-    "assets/_templates/News.md",
-    "Get Involved/index.md",
-    "News/index.md",
-    "News/2023-05-09.md",
-    "News/2025-06-01.md",
     "News/2025-07-01.md",
-    "assets/_templates/template_page.md",
-    "News/2023-10-11.md",
-    "News/2025-04-01.md",
+    "News/2025-06-01.md",
     "News/2025-05-10.md",
-    "assets/index.md",
-    "Community Groups/index.md",
-    "Community Projects/index.md",
+    "News/2025-04-01.md",
+    "News/2023-10-11.md",
+    "News/2023-05-09.md",
+    "News/index.md",
+    "Get Involved/index.md",
     "Community Projects/Service Corps.md",
-    "Community Groups/Artificial Intelligence.md",
+    "Community Projects/Mentorship.md",
+    "Community Projects/LinuxFest NorthWest.md",
+    "Community Projects/Helpdesk.md",
+    "Community Projects/Hack Night.md",
+    "Community Projects/Educational Robotics.md",
+    "Community Projects/Digital Navigators.md",
+    "Community Projects/index.md",
+    "Community Groups/Open Source.md",
+    "Community Groups/Engineering.md",
+    "Community Groups/Data Engineering.md",
+    "Community Groups/Cyber.md",
     "Community Groups/Citizen Science.md",
+    "Community Groups/Artificial Intelligence.md",
+    "Community Groups/index.md",
+    "assets/index.md",
+    "About/Partners.md",
     "assets/_templates",
     "About",
     "Get Involved",

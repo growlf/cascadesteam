@@ -16,7 +16,3 @@ Our primary donation payment option is [PayPal](https://www.paypal.com/donate/?h
 THANK YOU FOR YOUR SUPPORT\!
 
 The fine print: Cash, Check, and PayPal Giving Fund provide the full amount of your donation, however PayPal Giving Fund may take up to 45 days to process. Check may be made payable to ”Cascade STEAM” with "Donation" memo and mailed to “104 W. Magnolia St \#2551, Bellingham, WA 98225”. PayPal and Venmo charge a discounted processing fee for nonprofits, and PayPal provides a mechanism for you to optionally cover this fee. PayPal provides an optional subscription for you to automatically donate monthly or yearly.
-
-## Contact Us
-
-Interested to [get involved](Get%20Involved/index.md)? Volunteer? Collaborate? We would love to hear from you! Please contact [Michael Gan](https://www.linkedin.com/in/michaelbgan), Cascade STEAM President, for any inquiries at [michael.gan@cascadesteam.org](mailto:michael.gan@cascadesteam.org), [360-499-2099](tel:3604992099), or **@Michael Gan** via the [Cascade STEAM Community Hub](http://hub.cascadesteam.org).
