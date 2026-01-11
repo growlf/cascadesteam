@@ -96,11 +96,16 @@ const Footer: Component.QuartzComponent = () => {
                   jsx("a", { 
                     href: "http://hub.cascadesteam.org/", 
                     ariaLabel: "Discord",
+                    // children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
+                    //   jsx("path", { d: "M18 6a3 3 0 0 0-3-3H9a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V6z" }),
+                    //   jsx("circle", { cx: "9", cy: "12", r: "1" }),
+                    //   jsx("circle", { cx: "15", cy: "12", r: "1" })
+                    // ]})
                     children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
-                      jsx("path", { d: "M18 6a3 3 0 0 0-3-3H9a3 3 0 0 0-3 3v12a3 3 0 0 0 3 3h6a3 3 0 0 0 3-3V6z" }),
-                      jsx("circle", { cx: "9", cy: "12", r: "1" }),
-                      jsx("circle", { cx: "15", cy: "12", r: "1" })
-                    ]})
+                        jsx("path", { d: "M18 16.5l1.75 2.5s-1.5 1-4 1.5c-1.5.3-3.25.5-3.75.5s-2.25-.2-3.75-.5-4-1.5-4-1.5l1.75-2.5V10c0-3.5 2.5-6 6-6s6 2.5 6 6v6.5z" }),
+                        jsx("circle", { cx: "9", cy: "12", r: "1" }),
+                        jsx("circle", { cx: "15", cy: "12", r: "1" })
+                      ]})                    
                   })
                 ]
               })
