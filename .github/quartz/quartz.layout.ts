@@ -210,12 +210,9 @@ export const sharedPageComponents: SharedLayout = {
     Logo,
   ],
   afterBody: [
-    Footer,
+    // Footer,
   ],
-  footer: Component.Footer({
-    links: {
-      "GitHub": "https://github.com/CascadeSTEAM/cascadesteam.github.io",
-    },
+  footer: Footer,
   }),
 }
 
