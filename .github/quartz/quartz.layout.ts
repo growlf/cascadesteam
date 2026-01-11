@@ -62,7 +62,7 @@ const Footer: Component.QuartzComponent = () => {
                   }),
                   // PayPal / Donations
                   jsx("a", { 
-                    href: "https://www.paypal.com/donate?hosted_button_id=YOUR_ID", 
+                    href: "https://www.paypal.com/donate/?hosted_button_id=CLBXLN2E2ZU7C", 
                     ariaLabel: "Donate with PayPal",
                     children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
                       jsx("path", { d: "M7 17.5h1.9c2.8 0 4.5-1.4 5.1-4.1l1-5.1c.3-1.4-.2-2.3-1.5-2.3H7.5c-.6 0-1.1.4-1.2 1L4 18c-.1.5.3.9.8.9h2.2" }),
@@ -111,7 +111,7 @@ const Footer: Component.QuartzComponent = () => {
                   }),
                   // Calendar
                   jsx("a", { 
-                    href: "/calendar", 
+                    href: "https://calendar.google.com/calendar/u/0?cid=Y184M2IzZGQwMDBmNDE0NDhkMTEwOGM2MjNlNWNjZTQ4MThmM2IyZDkyNTZhYzRkM2M1MGQ3YzViMmFlOGJkZWU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20", 
                     ariaLabel: "Calendar",
                     children: jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", strokeLinecap: "round", strokeLinejoin: "round", children: [
                       jsx("rect", { x: "3", y: "4", width: "18", height: "18", rx: "2" }),
