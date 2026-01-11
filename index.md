@@ -22,8 +22,8 @@ See our [News Page](News/index.md) for past topics.
 ## Programs
 
 Our efforts are organized into programs, each of which is rooted in education, shared learning experiences, building relationships, and positive community impact, including:
-- **[Community Groups](Community%20Groups/index.md)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
-- **[Community Projects](Community%20Projects/index.md)**: Organized community engagement and community service projects, often collaborating with community partners.
+- **[Community Groups](Groups/index.md)**: Organizing communities of aspiring, current, and retired professionals focusing on a STEAM topic, through recurring meetings and events.
+- **[Community Projects](Projects/index.md)**: Organized community engagement and community service projects, often collaborating with community partners.
 
 ## Events
 

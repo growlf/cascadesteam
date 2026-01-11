@@ -7,9 +7,9 @@ banner: assets/images/Cascade_STEAM_horizontal_logo_primary.svg
 banner-display: 80%
 banner-fade: -10
 ---
-Citizen Science is a Cascade STEAM [Community Group](Community%20Groups/index.md) with a focus on science and science-related [community projects](Community%20Projects/index.md).
+Citizen Science is a Cascade STEAM [Community Group](Groups/index.md) with a focus on science and science-related [community projects](Projects/index.md).
 
-Calling all aspiring Citizen Scientists\! Cascade STEAM is kicking off Citizen Science with the Stormwater Monitoring [Community Project](Community%20Projects/index.md) to understand and improve the stormwater monitoring for Bellingham. In this group you'll learn about the techniques used by the [City of Bellingham](https://cob.org/services/environment/stormwater), [Washington State Department of Ecology](https://ecology.wa.gov/water-shorelines/water-quality/nonpoint-pollution/stormwater), and the local non-profit [RE Sources](https://re-sources.org) to ensure Bellingham Bay is minimally impacted by stormwater run-off. To learn more see this great summary of the [ReSources Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
+Calling all aspiring Citizen Scientists\! Cascade STEAM is kicking off Citizen Science with the Stormwater Monitoring [Community Project](Projects/index.md) to understand and improve the stormwater monitoring for Bellingham. In this group you'll learn about the techniques used by the [City of Bellingham](https://cob.org/services/environment/stormwater), [Washington State Department of Ecology](https://ecology.wa.gov/water-shorelines/water-quality/nonpoint-pollution/stormwater), and the local non-profit [RE Sources](https://re-sources.org) to ensure Bellingham Bay is minimally impacted by stormwater run-off. To learn more see this great summary of the [ReSources Stormwater Monitoring Project](https://www.re-sources.org/2024/06/three-years-of-bellingham-stormwater-monitoring-reveals-pollution-hotspots-including-taylor-dock/).
 
 ## Meetings
 

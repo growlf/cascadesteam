@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/index.md",
+                "file": "Groups/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,17 +197,19 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "288c79e589a8b194",
+  "active": "913e242a46932458",
   "lastOpenFiles": [
+    "Projects/index.md",
+    "Events/index.md",
+    "README.md",
     "Get Involved/Donate.md",
     "About/index.md",
     "Get Involved/index.md",
-    "Events/index.md",
     "index.md",
     "Events",
-    "Community Projects/Educational Robotics.md",
-    "Community Groups/Artificial Intelligence.md",
-    "Community Groups/Citizen Science.md",
+    "Projects/Educational Robotics.md",
+    "Groups/Artificial Intelligence.md",
+    "Groups/Citizen Science.md",
     "News/2025-07-01.md",
     "News/2025-06-01.md",
     "News/2025-05-10.md",
@@ -215,21 +217,19 @@
     "News/2023-10-11.md",
     "News/2023-05-09.md",
     "News/index.md",
-    "Community Projects/Service Corps.md",
-    "Community Projects/Mentorship.md",
-    "Community Projects/LinuxFest NorthWest.md",
-    "Community Projects/Helpdesk.md",
-    "Community Projects/Hack Night.md",
-    "Community Projects/Digital Navigators.md",
-    "Community Projects/index.md",
-    "Community Groups/Open Source.md",
-    "Community Groups/Engineering.md",
-    "Community Groups/Data Engineering.md",
-    "Community Groups/Cyber.md",
+    "Projects/Service Corps.md",
+    "Projects/Mentorship.md",
+    "Projects/LinuxFest NorthWest.md",
+    "Projects/Helpdesk.md",
+    "Projects/Hack Night.md",
+    "Projects/Digital Navigators.md",
+    "Groups/Open Source.md",
+    "Groups/Engineering.md",
+    "Groups/Data Engineering.md",
     "assets/_templates",
     "About",
     "Get Involved",
-    "Community Projects",
-    "Community Groups"
+    "Projects",
+    "Groups"
   ]
 }

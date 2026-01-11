@@ -30,7 +30,7 @@ For Summer 2025, Mentorship is designed for those 18 years of age or older - hig
 
 ## Community Groups
 
-Mentorship is integrated into [Community Groups](Community%20Groups/index.md), each convening separately in recurring meetings to discuss topical interests and connect with fellow community members. See all scheduled Community Group events at the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
+Mentorship is integrated into [Community Groups](Groups/index.md), each convening separately in recurring meetings to discuss topical interests and connect with fellow community members. See all scheduled Community Group events at the [Cascade STEAM Meetup Page](https://meetup.com/cascadesteam).
 
 ## Data Policy
 
