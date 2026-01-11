@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community Groups/Artificial Intelligence.md",
+                "file": "Community Projects/Educational Robotics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artificial Intelligence"
+              "title": "Educational Robotics"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "094447c02fa96c07",
   "lastOpenFiles": [
-    "Community Groups/Citizen Science.md",
     "Community Groups/Artificial Intelligence.md",
+    "Community Groups/Citizen Science.md",
     "index.md",
     "News/2025-07-01.md",
     "News/2025-06-01.md",
