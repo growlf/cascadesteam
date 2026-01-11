@@ -1,5 +1,4 @@
 ---
 title: Community Events
 ---
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_83b3dd000f41448d1108c623e5cce4818f3b2d9256ac4d3c50d7c5b2ae8bdee5%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FLos_Angeles&showPrint=0&title=Community%20Events%20and%20Meetups&src=Y184M2IzZGQwMDBmNDE0NDhkMTEwOGM2MjNlNWNjZTQ4MThmM2IyZDkyNTZhYzRkM2M1MGQ3YzViMmFlOGJkZWU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f4511e" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
