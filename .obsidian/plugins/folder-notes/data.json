@@ -84,6 +84,21 @@
       "string": "",
       "hideInSettings": true,
       "showFolderNote": true
+    },
+    {
+      "type": "folder",
+      "id": "73a4d9c7-b53d-49e7-9733-753c612c1b0c",
+      "path": "internal/Meeting Notes",
+      "subFolders": false,
+      "disableSync": false,
+      "disableAutoCreate": false,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 5,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": true,
+      "showFolderNote": true
     }
   ],
   "whitelistFolders": [],
