@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cbfd550392c573ca",
+        "id": "364fbefcf258ebf7",
         "type": "tabs",
         "children": [
           {
-            "id": "288c79e589a8b194",
+            "id": "b98312667ff79c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/index.md",
+                "file": "internal/Testing/Free Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Free Base"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "news/index.md",
+                "file": "internal/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "news/index.md",
+                "file": "internal/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "news/index.md",
+                "file": "internal/People/Garth Johnson.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Garth Johnson"
             }
           },
           {
@@ -184,6 +184,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,42 +197,60 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "288c79e589a8b194",
+  "active": "b98312667ff79c9f",
   "lastOpenFiles": [
-    "News/2025-07-01.md",
-    "News/2025-06-01.md",
-    "News/2025-05-10.md",
-    "News/2025-04-01.md",
-    "News/2023-10-11.md",
-    "News/2023-05-09.md",
-    "Events/index.md",
-    "Groups/index.md",
-    "Projects/index.md",
-    "README.md",
-    "Get Involved/Donate.md",
-    "About/index.md",
-    "Get Involved/index.md",
+    "internal/Testing/Testing.md",
+    "internal/Testing/Free Base.md",
     "index.md",
-    "Events",
-    "Projects/Educational Robotics.md",
-    "Groups/Artificial Intelligence.md",
-    "Groups/Citizen Science.md",
-    "News/index.md",
-    "Projects/Service Corps.md",
-    "Projects/Mentorship.md",
-    "Projects/LinuxFest NorthWest.md",
-    "Projects/Helpdesk.md",
-    "Projects/Hack Night.md",
-    "Projects/Digital Navigators.md",
-    "Groups/Open Source.md",
-    "Groups/Engineering.md",
-    "assets/_templates",
-    "About",
-    "Get Involved",
-    "Projects",
-    "Groups"
+    "internal/Priority/Issues/index.base",
+    "internal/Priority/Issues/Install Applications to workstations (Ongoing).md",
+    "internal/Priority/Projects/index.md",
+    "internal/Priority/index.md",
+    "internal/Priority/Projects/Completed/index.base",
+    "internal/Policies/index.md",
+    "internal/People/index.base",
+    "internal/Meeting Notes/index.base",
+    "internal/Knowledge Base/index.md",
+    "internal/Infrastructure/index.md",
+    "internal/Infrastructure/CHANGELOG/index.md",
+    "internal/Infrastructure/Devices/index.base",
+    "internal/Infrastructure/Networks/index.md",
+    "internal/Infrastructure/Services/index.base",
+    "internal/index.md",
+    "internal/Welcome.md",
+    "internal/Communities.md",
+    "internal/Priority/Projects/VLANs Project(WIP).md",
+    "internal/Priority/Projects/RFID Tool Interlock.md",
+    "internal/Priority/Projects/Reorganize Server Hardware Stack in Datacenters 1.md",
+    "internal/Priority/Projects/Optimize Services.md",
+    "internal/Priority/Projects/Docker Swarm LXC Security.md",
+    "internal/Priority/Projects/CouchDB Service For Public Use With Obsidian(WIP).md",
+    "internal/Priority/Projects/Cleanup the NFS Store.md",
+    "internal/Knowledge Base/Ansible/index.md",
+    "internal/_assets/excalidrawings/WebFlow.md",
+    "internal/_assets/sync_settings.md",
+    "internal/_assets/87b73bda1ba83cb30836b6986c849de1e5ad6466_96.png",
+    "internal/_assets/excalidrawings/homelab_design_1.md",
+    "internal/_assets/excalidrawings/speachbubble.svg",
+    "internal/_assets/excalidrawings/Mentorship Org Chart.excalidraw.md",
+    "internal/_assets/BasicNetwork_diagram.excalidraw.dark.svg",
+    "internal/_assets/1197883.jpg",
+    "internal/_assets/knowledgebase.jpg",
+    "internal/_assets/basic homelab network map.png",
+    "internal/_assets/Basic DNS_01.png",
+    "internal/_assets/A photorealistic image of cascade steam squid in a forest.jpeg",
+    "internal/_assets/360_F_89026793_eyw5a7WCQE0y1RHsizu41uhj7YStgvAA.jpg",
+    "internal/_assets/Joining Obsidian LiveSync Images/Pasted image 20251007231103.png",
+    "internal/Priority/Issues/Issues",
+    "internal/Priority/Projects",
+    "internal/Priority/Priority",
+    "internal/_assets/_excalidraw/Libraries/some-handdrawn-signs.excalidrawlib"
   ]
 }
